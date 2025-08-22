@@ -1,0 +1,173 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Recipe Recommendations | Smart Recipe Finder</title>
+
+    <!-- Tailwind -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    <!-- Google-font + Icons -->
+    <link rel="preconnect" href="https://fonts.gstatic.com" />
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" />
+
+    <style>
+        @keyframes fadeIn{from{opacity:0;transform:translateY(10px)}to{opacity:1;transform:translateY(0)}}
+        .animate-fade-in{animation:fadeIn .5s ease-out forwards}
+        .recipe-item:hover .recipe-actions{opacity:1}
+        /* circular progress */
+        .progress-circle{width:80px;height:80px;position:relative}
+        .progress-circle svg{width:100%;height:100%}
+        .progress-circle circle{fill:none;stroke-width:6;stroke-linecap:round;transform:rotate(-90deg);transform-origin:50% 50%}
+        .progress-bg{stroke:#e5e7eb}
+        .score-gradient-1{background:linear-gradient(135deg,#10b981,#3b82f6)}
+        .score-gradient-2{background:linear-gradient(135deg,#3b82f6,#8b5cf6)}
+        .score-gradient-3{background:linear-gradient(135deg,#8b5cf6,#ec4899)}
+    </style>
+
+    <script>
+        tailwind.config = {
+            theme:{
+                extend:{
+                    fontFamily:{poppins:['Poppins','sans-serif']},
+                    colors:{
+                        primary:{50:'#f0f9ff',100:'#e0f2fe',200:'#bae6fd',300:'#7dd3fc',400:'#38bdf8',500:'#0ea5e9',600:'#0284c7',700:'#0369a1',800:'#075985',900:'#0c4a6e'},
+                        secondary:{50:'#fdf2f8',100:'#fce7f3',200:'#fbcfe8',300:'#f9a8d4',400:'#f472b6',500:'#ec4899',600:'#db2777',700:'#be185d',800:'#9d174d',900:'#831843'}
+                    }
+                }
+            }
+        };
+    </script>
+</head>
+<body class="font-poppins bg-gradient-to-br from-primary-50 to-secondary-50 min-h-screen">
+    <div class="container mx-auto px-4 py-8 lg:py-12">
+        <!-- Header -->
+        <header class="text-center mb-8 lg:mb-12">
+            <div class="flex justify-center items-center mb-4">
+                <i class="fas fa-utensils text-4xl text-primary-600 mr-3"></i>
+                <h1 class="text-3xl lg:text-4xl font-bold bg-gradient-to-r from-primary-600 to-secondary-600 bg-clip-text text-transparent">
+                    Smart Recipe Finder
+                </h1>
+            </div>
+            <p class="text-gray-600 max-w-2xl mx-auto">Your personalized recipe recommendations based on your preferences</p>
+        </header>
+
+        <!-- Results Container -->
+        <div class="max-w-4xl mx-auto bg-white rounded-2xl shadow-lg overflow-hidden">
+            <!-- Top bar -->
+            <div class="bg-gradient-to-r from-primary-600 to-secondary-600 p-6">
+                <div class="flex flex-col sm:flex-row justify-between items-start sm:items-center gap-4">
+                    <div>
+                        <h2 class="text-xl font-semibold text-white">🍽️ Taste-Tailored Recommendations</h2>
+                        <p class="text-primary-100 text-sm">Ranked based on your preferences and ingredients</p>
+                    </div>
+                    <a href="/" class="flex items-center text-white hover:text-primary-100 transition-colors">
+                        <i class="fas fa-arrow-left mr-2"></i> Back to Search
+                    </a>
+                </div>
+            </div>
+
+            <!-- Recipe list -->
+            <div class="divide-y divide-gray-200">
+                {% for d in dishes %}
+                <div class="p-6 hover:bg-gray-50 transition-colors duration-200 animate-fade-in recipe-item" style="animation-delay: {{ loop.index * 0.05 }}s">
+                    <div class="flex flex-col md:flex-row gap-4">
+                        <!-- Image -->
+                        <div class="flex-shrink-0 w-32 h-32 rounded-lg overflow-hidden bg-gray-100 relative">
+                            {% if d.image and d.image|string != '' and d.image|string != 'nan' and d.image|string|length > 5 %}
+                                <img src="{{ d.image }}" alt="{{ d.name }}" class="w-full h-full object-cover"
+                                     onerror="this.style.display='none'; this.nextElementSibling.style.display='flex';">
+                                <div class="w-full h-full hidden items-center justify-center text-gray-400">
+                                    <i class="fas fa-utensils text-3xl"></i>
+                                </div>
+                            {% else %}
+                                <div class="w-full h-full flex items-center justify-center text-gray-400">
+                                    <i class="fas fa-utensils text-3xl"></i>
+                                </div>
+                            {% endif %}
+                            <div class="absolute top-2 left-2">
+                                <div class="flex items-center justify-center w-8 h-8 rounded-full {% if loop.index <= 3 %}score-gradient-{{ loop.index }}{% else %}bg-primary-600{% endif %} text-white font-bold text-xs shadow-sm">
+                                    {{ loop.index }}
+                                </div>
+                            </div>
+                        </div>
+
+                        <!-- Info -->
+                        <div class="flex-1">
+                            <div class="flex justify-between items-start">
+                                <div>
+                                    <h3 class="text-lg font-semibold text-gray-900 mb-1">
+                                        <a href="{{ url_for('recipe', rid=d.rid) }}" class="hover:text-primary-600 transition-colors">{{ d.name }}</a>
+                                    </h3>
+                                    <p class="text-sm text-gray-500 mb-3 line-clamp-2">A delicious meal tailored just for you</p>
+                                </div>
+                                <!-- circular score -->
+                                <div class="flex-shrink-0 relative group" title="Match Score">
+                                    <div class="progress-circle">
+                                        <svg viewBox="0 0 80 80">
+                                            <circle class="progress-bg" cx="40" cy="40" r="34"></circle>
+                                            <circle class="progress-bar {% if loop.index <= 3 %}score-gradient-{{ loop.index }}{% else %}stroke-primary-600{% endif %}" cx="40" cy="40" r="34"></circle>
+                                        </svg>
+                                        <div class="absolute inset-0 flex items-center justify-center text-sm font-bold">
+                                            {{ d.score }}
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <!-- metadata -->
+                            <div class="flex flex-wrap gap-4 mt-2">
+                                <div class="flex items-center text-sm text-gray-600">
+                                    <i class="fas fa-clock text-primary-500 mr-1.5"></i>
+                                    <span>{{ d.time }}</span>
+                                </div>
+                                <div class="flex items-center text-sm text-gray-600">
+                                    <i class="fas fa-fire text-secondary-500 mr-1.5"></i>
+                                    <span>{{ d.cal }} kcal</span>
+                                </div>
+                                <div class="flex items-center text-sm text-gray-600">
+                                    <i class="fas fa-user-tie text-amber-500 mr-1.5"></i>
+                                    <span>{{ d.skill }}</span>
+                                </div>
+                                {% if d.diet %}
+                                <div class="flex items-center text-sm text-gray-600">
+                                    <i class="fas fa-heartbeat text-green-500 mr-1.5"></i>
+                                    <span>{{ d.diet }}</span>
+                                </div>
+                                {% endif %}
+                            </div>
+
+                            <!-- actions -->
+                            <div class="flex items-center justify-between mt-4">
+                                <div class="flex items-center space-x-2 recipe-actions opacity-0 transition-opacity">
+                                    <button class="p-2 text-primary-600 hover:bg-primary-50 rounded-full"><i class="fas fa-heart"></i></button>
+                                    <button class="p-2 text-primary-600 hover:bg-primary-50 rounded-full"><i class="fas fa-clock"></i></button>
+                                    <button class="p-2 text-primary-600 hover:bg-primary-50 rounded-full"><i class="fas fa-share-alt"></i></button>
+                                </div>
+                                <a href="{{ url_for('recipe', rid=d.rid) }}" class="inline-flex items-center px-4 py-2 border border-transparent text-sm font-medium rounded-lg shadow-sm text-white bg-primary-600 hover:bg-primary-700 focus:outline-none">
+                                    View Recipe <i class="fas fa-chevron-right ml-2 text-xs"></i>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                {% endfor %}
+            </div>
+        </div>
+    </div>
+
+    <!-- JS: animate score circle -->
+    <script>
+    document.addEventListener("DOMContentLoaded", () => {
+        document.querySelectorAll(".progress-bar").forEach((c, i) => {
+            const score = parseFloat(c.parentElement.parentElement.querySelector(".font-bold").textContent.trim());
+            const circ = 2 * Math.PI * 34;
+            c.style.strokeDasharray = circ;
+            c.style.strokeDashoffset = circ;
+            setTimeout(()=>{c.style.strokeDashoffset = circ - (score*10*circ/100)}, i*100);
+        });
+    });
+    </script>
+</body>
+</html>

@@ -1,0 +1,38 @@
+{
+  "best_params": {
+    "estimator__random_state": 42,
+    "estimator__n_estimators": 200,
+    "estimator__min_samples_split": 2,
+    "estimator__min_samples_leaf": 1,
+    "estimator__max_features": null,
+    "estimator__max_depth": null
+  },
+  "best_cv_score": 0.9008012809696663,
+  "training_time_seconds": 407.8517429828644,
+  "data_shape": {
+    "X_train": [
+      1872,
+      797
+    ],
+    "X_val": [
+      624,
+      797
+    ],
+    "X_test": [
+      624,
+      797
+    ]
+  },
+  "target_names": [
+    "Weight_Loss",
+    "Bodybuilder",
+    "CleanEating",
+    "Diabetic",
+    "Hypertension",
+    "Heart-Healthy Diet",
+    "Vegetarian",
+    "Low_Carb",
+    "None"
+  ],
+  "feature_count": 797
+}

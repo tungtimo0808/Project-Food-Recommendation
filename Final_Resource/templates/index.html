@@ -1,0 +1,276 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Smart Recipe Finder | Powered Cooking Assistant</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <style>
+        .animate-pulse-slow {
+            animation: pulse 4s cubic-bezier(0.4, 0, 0.6, 1) infinite;
+        }
+        @keyframes pulse {
+            0%, 100% { opacity: 1; }
+            50% { opacity: 0.8; }
+        }
+        .ingredient-chip {
+            display: inline-flex;
+            align-items: center;
+            background-color: #f3f4f6;
+            border-radius: 9999px;
+            padding: 0.25rem 0.75rem;
+            margin-right: 0.5rem;
+            margin-bottom: 0.5rem;
+            font-size: 0.875rem;
+        }
+        .ingredient-chip button {
+            margin-left: 0.25rem;
+            color: #6b7280;
+            background: none;
+            border: none;
+            cursor: pointer;
+        }
+        .ingredient-chip button:hover {
+            color: #ef4444;
+        }
+    </style>
+    <script>
+        tailwind.config = {
+            theme: {
+                extend: {
+                    fontFamily: {
+                        poppins: ['Poppins', 'sans-serif'],
+                    },
+                    colors: {
+                        primary: {
+                            50: '#f0f9ff',
+                            100: '#e0f2fe',
+                            200: '#bae6fd',
+                            300: '#7dd3fc',
+                            400: '#38bdf8',
+                            500: '#0ea5e9',
+                            600: '#0284c7',
+                            700: '#0369a1',
+                            800: '#075985',
+                            900: '#0c4a6e',
+                        },
+                        secondary: {
+                            50: '#fdf2f8',
+                            100: '#fce7f3',
+                            200: '#fbcfe8',
+                            300: '#f9a8d4',
+                            400: '#f472b6',
+                            500: '#ec4899',
+                            600: '#db2777',
+                            700: '#be185d',
+                            800: '#9d174d',
+                            900: '#831843',
+                        }
+                    }
+                }
+            }
+        }
+    </script>
+</head>
+<body class="font-poppins bg-gradient-to-br from-primary-50 to-secondary-50 min-h-screen">
+    <div class="container mx-auto px-4 py-8 lg:py-12">
+        <!-- Header Section -->
+        <header class="text-center mb-8 lg:mb-12">
+            <div class="flex justify-center items-center mb-4">
+                <i class="fas fa-utensils text-4xl text-primary-600 mr-3"></i>
+                <h1 class="text-3xl lg:text-4xl font-bold bg-gradient-to-r from-primary-600 to-secondary-600 bg-clip-text text-transparent">Smart Recipe Finder</h1>
+            </div>
+            <p class="text-gray-600 max-w-2xl mx-auto">Discover personalized recipes powered by machine learning. Tell us what you have, and we'll find the perfect dishes for you!</p>
+        </header>
+
+        <!-- Main Form Section -->
+        <div class="max-w-2xl mx-auto bg-white rounded-2xl shadow-lg overflow-hidden">
+            <!-- Form Header -->
+            <div class="bg-gradient-to-r from-primary-600 to-secondary-600 p-6">
+                <h2 class="text-xl font-semibold text-white">What's Cooking Today?</h2>
+                <p class="text-primary-100 text-sm">Fill in your preferences to get personalized recommendations</p>
+            </div>
+
+            <!-- Form Content -->
+            <form action="/recommend" method="post" class="p-6 space-y-6">
+                <!-- Main Ingredient -->
+                <div class="space-y-2">
+                    <label for="main" class="block text-sm font-medium text-gray-700">
+                        <i class="fas fa-carrot text-primary-600 mr-2"></i> Main Ingredient
+                    </label>
+                    <div class="relative">
+                        <input id="main" name="main" list="main-list" autocomplete="off" required
+                               class="w-full px-4 py-2 border border-gray-300 rounded-lg focus:ring-2 focus:ring-primary-500 focus:border-primary-500"
+                               placeholder="e.g., chicken, salmon, tofu">
+                        <i class="fas fa-search absolute right-3 top-3 text-gray-400"></i>
+                    </div>
+                    <datalist id="main-list">
+                        {% for m in mains %}<option value="{{m}}">{% endfor %}
+                    </datalist>
+                </div>
+
+                <!-- Sub Ingredients -->
+                <div class="space-y-2">
+                    <label for="sub-input" class="block text-sm font-medium text-gray-700">
+                        <i class="fas fa-pepper-hot text-primary-600 mr-2"></i> Additional Ingredients
+                    </label>
+                    <div class="relative">
+                        <input id="sub-input" list="sub-list" autocomplete="off" 
+                               class="w-full px-4 py-2 border border-gray-300 rounded-lg focus:ring-2 focus:ring-primary-500 focus:border-primary-500"
+                               placeholder="Type and press enter (e.g., tomatoes, garlic)">
+                        <datalist id="sub-list">
+                            {% for s in subs %}<option value="{{s}}">{% endfor %}
+                        </datalist>
+                    </div>
+                    <p class="text-xs text-gray-500">Press enter after each ingredient (max 5)</p>
+                    
+                    <!-- Ingredient Chips -->
+                    <div id="ingredient-chips" class="flex flex-wrap mt-2">
+                        <!-- Chips will be added here dynamically -->
+                    </div>
+                    <input type="hidden" id="sub" name="sub">
+                </div>
+
+                <!-- Cooking Time -->
+                <div class="space-y-2">
+                    <label for="time" class="block text-sm font-medium text-gray-700">
+                        <i class="fas fa-clock text-primary-600 mr-2"></i> Time Available (minutes)
+                    </label>
+                    <div class="flex items-center space-x-4">
+                        <input type="range" id="time-slider" min="5" max="500" step="5" value="30" 
+                               class="w-full h-2 bg-gray-200 rounded-lg appearance-none cursor-pointer">
+                        <input type="number" id="time" name="time" min="5" max="500" step="5" value="30" 
+                               class="w-20 px-3 py-2 border border-gray-300 rounded-lg focus:ring-2 focus:ring-primary-500 focus:border-primary-500">
+                    </div>
+                </div>
+
+                <!-- Skill Level -->
+                <div class="space-y-2">
+                    <label for="skill" class="block text-sm font-medium text-gray-700">
+                        <i class="fas fa-graduation-cap text-primary-600 mr-2"></i> Skill Level
+                    </label>
+                    <select id="skill" name="skill" class="w-full px-4 py-2 border border-gray-300 rounded-lg focus:ring-2 focus:ring-primary-500 focus:border-primary-500">
+                        <option>SUPER EASY</option>
+                        <option>NOT TOO TRICKY</option>
+                        <option>SHOWING OFF</option>
+                    </select>
+                </div>
+
+                <!-- Diet Preference -->
+                <div class="space-y-2">
+                    <label for="diet" class="block text-sm font-medium text-gray-700">
+                        <i class="fas fa-heart text-primary-600 mr-2"></i> Diet Preference
+                    </label>
+                    <div class="relative">
+                        <select id="diet" name="diet" class="w-full px-4 py-2 border border-gray-300 rounded-lg focus:ring-2 focus:ring-primary-500 focus:border-primary-500 appearance-none">
+                            <option value="none">None</option>
+                            <option value="Weight_Loss">Weight Loss</option>
+                            <option value="Bodybuilder">Bodybuilder</option>
+                            <option value="CleanEating">Clean Eating</option>
+                            <option value="Diabetic">Diabetic</option>
+                            <option value="Hypertension">Hypertension</option>
+                            <option value="Heart-Healthy Diet">Heart-Healthy Diet</option>
+                            <option value="Vegetarian">Vegetarian</option>
+                            <option value="Low_Carb">Low Carb</option>
+                        </select>
+                        <div class="absolute inset-y-0 right-0 flex items-center pr-3 pointer-events-none">
+                            <i class="fas fa-chevron-down text-gray-400"></i>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Calorie Range -->
+                <div class="space-y-2">
+                    <label for="cal_range" class="block text-sm font-medium text-gray-700">
+                        <i class="fas fa-fire text-primary-600 mr-2"></i> Calories Range (kcal)
+                    </label>
+                    <select id="cal_range" name="cal_range" class="w-full px-4 py-2 border border-gray-300 rounded-lg focus:ring-2 focus:ring-primary-500 focus:border-primary-500">
+                        <option value="0">100 – 299</option>
+                        <option value="1">300 – 499</option>
+                        <option value="2" selected>500 – 699</option>
+                        <option value="3">700 – 899</option>
+                        <option value="4">900+</option>
+                    </select>
+                </div>
+
+                <!-- Submit Button -->
+                <button type="submit" class="w-full py-3 px-6 bg-gradient-to-r from-primary-600 to-secondary-600 hover:from-primary-700 hover:to-secondary-700 text-white font-medium rounded-lg transition-all duration-300 transform hover:scale-105 focus:ring-4 focus:ring-primary-200">
+                    <i class="fas fa-magic mr-2"></i> Get Recommendations
+                </button>
+            </form>
+        </div>
+
+        <!-- Footer -->
+        <footer class="mt-12 text-center text-gray-500 text-sm">
+        </footer>
+    </div>
+
+    <!-- JavaScript for enhanced functionality -->
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            // Ingredients chips functionality
+            const subInput = document.getElementById('sub-input');
+            const ingredientChips = document.getElementById('ingredient-chips');
+            const subHiddenInput = document.getElementById('sub');
+            let ingredients = [];
+            
+            // Update hidden sub ingredients field
+            function updateHiddenSub() {
+                subHiddenInput.value = ingredients.join(',');
+            }
+            
+            // Add ingredient chip
+            function addChip(ingredient) {
+                if (ingredients.length >= 5) {
+                    alert('You can only add up to 5 additional ingredients');
+                    return;
+                }
+                
+                ingredients.push(ingredient.trim());
+                updateHiddenSub();
+                
+                const chip = document.createElement('div');
+                chip.className = 'ingredient-chip';
+                chip.innerHTML = `
+                    ${ingredient}
+                    <button type="button" onclick="removeChip(this, '${ingredient}')">
+                        <i class="fas fa-times"></i>
+                    </button>
+                `;
+                ingredientChips.appendChild(chip);
+                subInput.value = '';
+            }
+            
+            // Remove ingredient chip (must be global for onclick)
+            window.removeChip = function(button, ingredient) {
+                const chip = button.parentElement;
+                ingredients = ingredients.filter(item => item !== ingredient);
+                updateHiddenSub();
+                chip.remove();
+            }
+            
+            // Handle enter key for adding ingredients
+            subInput.addEventListener('keydown', function(e) {
+                if (e.key === 'Enter' && this.value.trim()) {
+                    e.preventDefault();
+                    addChip(this.value);
+                }
+            });
+            
+            // Sync time slider with input
+            const timeSlider = document.getElementById('time-slider');
+            const timeInput = document.getElementById('time');
+            
+            timeSlider.addEventListener('input', function() {
+                timeInput.value = this.value;
+            });
+            
+            timeInput.addEventListener('input', function() {
+                timeSlider.value = this.value;
+            });
+        });
+    </script>
+</body>
+</html>

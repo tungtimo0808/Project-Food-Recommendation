@@ -1,0 +1,1201 @@
+ID,name,age,sex,height,weight,BMI,pathology,mode,Food supplements,calories needed for 1 meal
+normal,user_1,24,male,171,74,25.31,cardiovascular disease,vegetarian,"kale, sweet potatoes, carrots",525
+patient,user_2,32,male,164,65,24.17,high cholesterol,vegetarian,"chia seeds, tofu, mushrooms",400
+gymer,user_3,38,female,170,55,19.03,none,vegan,"walnuts, flaxseeds, chia seeds",997
+normal,user_4,58,female,162,118,44.96,none,vegetarian,"mushrooms, pumpkin seeds, kidney beans",795
+normal,user_5,31,male,155,107,44.54,high cholesterol,vegetarian,mushrooms,648
+student,user_6,18,female,161,92,35.49,cardiovascular disease,vegetarian,"kale, tofu",778
+patient,user_7,23,male,171,96,32.83,high blood pressure,omnivore,"tofu, eggs, egg yolk",468
+patient,user_8,29,female,149,56,25.22,cardiovascular disease,vegetarian,"almonds, cashews, spinach",586
+gymer,user_9,41,male,164,56,20.82,none,vegetarian,mushrooms,965
+student,user_10,18,female,152,93,40.25,high blood pressure,omnivore,"bananas, cashews, spinach",717
+patient,user_11,29,female,188,46,13.01,diabetes,vegan,"kidney beans, lentils, pumpkin seeds",514
+student,user_12,18,female,147,95,43.96,high cholesterol,vegetarian,"green beans, sweet potatoes, carrots",848
+normal,user_13,55,female,190,119,32.96,cardiovascular disease,vegetarian,"oats, sweet potatoes, chia seeds",571
+student,user_14,19,male,173,107,35.75,high cholesterol,omnivore,"cheese, tofu, milk",773
+student,user_15,20,female,180,54,16.67,high cholesterol,omnivore,"chicken breast, tofu, lentils",777
+patient,user_16,40,female,157,59,23.94,high blood pressure,vegetarian,"pumpkin seeds, mushrooms, cereal",446
+student,user_17,18,male,193,112,30.07,high blood pressure,omnivore,"walnuts, cheese, chia seeds",603
+patient,user_18,37,male,163,93,35.0,high cholesterol,omnivore,"almonds, cashews, kidney beans",591
+student,user_19,22,female,179,63,19.66,high blood pressure,vegan,"cashews, spinach, almonds",732
+patient,user_20,54,male,173,120,40.09,high cholesterol,omnivore,"carrots, cheese, kale",442
+gymer,user_21,51,female,195,107,28.14,none,vegan,"tofu, lentils",900
+student,user_22,21,male,185,47,13.73,cardiovascular disease,omnivore,"cereal, pumpkin seeds, chicken liver",676
+patient,user_23,42,male,149,92,41.44,diabetes,omnivore,"spinach, chicken liver, kidney beans",405
+gymer,user_24,31,male,181,79,24.11,none,omnivore,"milk, egg yolk, mushrooms",991
+student,user_25,18,male,189,84,23.52,diabetes,vegan,"tofu, almonds, spinach",772
+gymer,user_26,27,female,178,119,37.56,none,vegetarian,"spinach, pumpkin seeds, cereal",1147
+patient,user_27,47,female,151,102,44.73,cardiovascular disease,vegetarian,"tofu, sweet potatoes, carrots",446
+normal,user_28,38,female,184,92,27.17,high blood pressure,omnivore,"chicken liver, kidney beans, pumpkin seeds",580
+gymer,user_29,45,female,177,63,20.11,none,omnivore,"eggs, tofu, lentils",925
+patient,user_30,23,female,162,50,19.05,high blood pressure,omnivore,"salmon, milk, mushrooms",537
+patient,user_31,31,female,149,107,48.2,diabetes,vegan,"green beans, spinach, broccoli",557
+normal,user_32,29,female,194,55,14.61,cardiovascular disease,omnivore,"bananas, almonds, spinach",629
+normal,user_33,51,male,155,54,22.48,diabetes,vegan,"tofu, kale",766
+patient,user_34,47,female,191,57,15.62,high blood pressure,vegetarian,"walnuts, carrots, chia seeds",402
+student,user_35,18,female,167,85,30.48,high cholesterol,omnivore,"cheese, kale, milk",843
+normal,user_36,42,female,146,108,50.67,cardiovascular disease,vegetarian,"cashews, spinach, almonds",661
+patient,user_37,54,female,157,103,41.79,high cholesterol,omnivore,"carrots, sweet potatoes, oats",485
+gymer,user_38,57,male,179,49,15.29,none,vegetarian,"tofu, lentils",1007
+gymer,user_39,35,male,155,68,28.3,none,vegan,"sweet potatoes, carrots, oats",1082
+student,user_40,20,male,189,54,15.12,high blood pressure,omnivore,"mushrooms, yogurt, chicken breast",651
+gymer,user_41,40,male,174,117,38.64,none,omnivore,"lentils, almonds, cereal",1136
+normal,user_42,43,male,149,66,29.73,high blood pressure,vegetarian,"tofu, broccoli, spinach",692
+patient,user_43,28,female,183,75,22.4,diabetes,vegetarian,"kidney beans, pumpkin seeds, carrots",536
+student,user_44,18,male,157,54,21.91,cardiovascular disease,vegan,"walnuts, chia seeds, flaxseeds",774
+patient,user_45,46,female,192,69,18.72,high cholesterol,vegan,mushrooms,463
+normal,user_46,28,female,177,97,30.96,none,vegetarian,"kale, tofu",687
+student,user_47,22,female,175,45,14.69,none,vegan,"walnuts, tofu, mushrooms",842
+student,user_48,22,female,186,101,29.19,high cholesterol,omnivore,"walnuts, flaxseeds, mackerel",641
+gymer,user_49,54,male,175,110,35.92,none,vegetarian,"flaxseeds, chia seeds, walnuts",989
+student,user_50,18,male,195,45,11.83,cardiovascular disease,omnivore,"cereal, milk, chicken liver",686
+gymer,user_51,24,male,168,66,23.38,none,omnivore,"spinach, broccoli, almonds",981
+patient,user_52,32,male,161,72,27.78,diabetes,omnivore,"mushrooms, cereal, spinach",576
+student,user_53,20,male,181,80,24.42,high cholesterol,vegan,"tofu, mushrooms, spinach",823
+student,user_54,21,male,159,58,22.94,none,vegan,"lentils, mushrooms, almonds",707
+gymer,user_55,23,male,177,57,18.19,none,vegan,"chia seeds, flaxseeds, lentils",1062
+gymer,user_56,26,female,193,73,19.6,none,omnivore,"bananas, spinach, broccoli",956
+student,user_57,22,male,147,84,38.87,high blood pressure,omnivore,"egg yolk, mushrooms, milk",762
+normal,user_58,27,female,185,51,14.9,cardiovascular disease,vegetarian,mushrooms,797
+gymer,user_59,49,female,160,92,35.94,none,vegetarian,"cereal, pumpkin seeds, kidney beans",1057
+gymer,user_60,31,male,148,84,38.35,none,vegetarian,"walnuts, bananas, chia seeds",984
+patient,user_61,53,female,188,64,18.11,high cholesterol,omnivore,"mushrooms, egg yolk, walnuts",482
+student,user_62,19,male,175,60,19.59,cardiovascular disease,vegetarian,"walnuts, cereal, chia seeds",701
+student,user_63,19,female,183,80,23.89,diabetes,omnivore,"spinach, salmon, chicken breast",674
+gymer,user_64,26,male,178,94,29.67,none,omnivore,"almonds, walnuts, mackerel",930
+normal,user_65,32,female,185,84,24.54,diabetes,vegan,"tofu, kale",588
+patient,user_66,24,male,175,51,16.65,diabetes,vegetarian,"walnuts, lentils, tofu",447
+normal,user_67,39,male,178,86,27.14,cardiovascular disease,vegan,"kidney beans, pumpkin seeds, almonds",643
+normal,user_68,31,male,184,54,15.95,diabetes,vegetarian,mushrooms,772
+gymer,user_69,52,male,180,56,17.28,none,vegetarian,"mushrooms, oats, broccoli",950
+student,user_70,22,male,191,85,23.3,cardiovascular disease,omnivore,"mackerel, flaxseeds, walnuts",733
+patient,user_71,57,female,148,54,24.65,high cholesterol,vegetarian,"tofu, lentils",584
+normal,user_72,53,female,183,106,31.65,none,omnivore,"pumpkin seeds, chicken liver, salmon",562
+patient,user_73,52,male,147,57,26.38,high cholesterol,omnivore,"chicken breast, eggs, yogurt",403
+student,user_74,21,female,173,45,15.04,cardiovascular disease,vegan,"lentils, tofu",832
+patient,user_75,39,male,152,98,42.42,diabetes,omnivore,"kale, tofu, cheese",483
+gymer,user_76,40,male,178,62,19.57,none,vegan,"oats, broccoli, cereal",1074
+normal,user_77,39,female,152,48,20.78,cardiovascular disease,omnivore,"chicken breast, tofu, yogurt",675
+normal,user_78,57,male,148,106,48.39,cardiovascular disease,vegetarian,"bananas, cashews, spinach",501
+patient,user_79,53,male,184,62,18.31,high blood pressure,omnivore,"mushrooms, milk, egg yolk",407
+student,user_80,19,male,145,117,55.65,none,vegan,"kidney beans, almonds, bananas",724
+normal,user_81,42,male,156,70,28.76,cardiovascular disease,vegetarian,"green beans, carrots, broccoli",753
+gymer,user_82,54,female,148,82,37.44,none,vegetarian,"tofu, lentils",1077
+gymer,user_83,40,male,150,104,46.22,none,vegan,"carrots, bananas, cereal",970
+gymer,user_84,30,female,168,65,23.03,none,vegan,"oats, tofu, bananas",1110
+patient,user_85,40,male,158,53,21.23,diabetes,omnivore,"chicken liver, carrots, bananas",450
+gymer,user_86,58,male,154,62,26.14,none,omnivore,"bananas, cashews, spinach",937
+gymer,user_87,56,male,158,111,44.46,none,vegan,mushrooms,1102
+student,user_88,18,male,159,116,45.88,cardiovascular disease,vegan,"spinach, pumpkin seeds, kidney beans",779
+student,user_89,19,male,169,55,19.26,cardiovascular disease,vegan,"chia seeds, flaxseeds, walnuts",794
+patient,user_90,44,male,157,113,45.84,cardiovascular disease,vegetarian,"almonds, tofu, spinach",532
+student,user_91,20,female,195,84,22.09,high cholesterol,omnivore,"salmon, lentils, chicken breast",710
+student,user_92,22,male,175,67,21.88,high cholesterol,vegetarian,"lentils, tofu",640
+normal,user_93,26,female,174,66,21.8,high blood pressure,vegan,"kidney beans, cereal, broccoli",646
+gymer,user_94,45,male,147,86,39.8,none,vegetarian,"bananas, tofu, cereal",1060
+normal,user_95,34,male,150,94,41.78,cardiovascular disease,vegan,"green beans, broccoli, oats",593
+patient,user_96,42,male,179,52,16.23,diabetes,vegan,"kale, cashews, almonds",482
+normal,user_97,25,female,162,112,42.68,none,omnivore,"yogurt, pumpkin seeds, mushrooms",610
+student,user_98,19,female,193,72,19.33,high blood pressure,vegetarian,"cashews, spinach, bananas",690
+patient,user_99,27,female,175,72,23.51,cardiovascular disease,omnivore,"kidney beans, pumpkin seeds, chicken liver",418
+normal,user_100,27,female,181,85,25.95,diabetes,vegan,"tofu, kale",666
+normal,user_101,44,male,167,56,20.08,cardiovascular disease,vegan,"kale, tofu",512
+student,user_102,19,male,150,112,49.78,high cholesterol,vegan,"kale, tofu",762
+normal,user_103,57,male,155,81,33.71,high cholesterol,vegetarian,"kale, spinach, bananas",625
+patient,user_104,39,male,191,113,30.98,cardiovascular disease,vegan,"cashews, almonds, kale",521
+patient,user_105,26,male,145,91,43.28,high blood pressure,omnivore,"mackerel, flaxseeds, tofu",540
+student,user_106,21,male,177,98,31.28,cardiovascular disease,vegetarian,"kidney beans, mushrooms, tofu",841
+normal,user_107,25,male,164,46,17.1,diabetes,vegetarian,"mushrooms, walnuts, spinach",616
+normal,user_108,30,male,170,82,28.37,none,vegan,"kale, tofu, lentils",582
+normal,user_109,48,male,168,52,18.42,high blood pressure,omnivore,"mushrooms, yogurt, eggs",658
+normal,user_110,31,male,177,60,19.15,cardiovascular disease,omnivore,"walnuts, mackerel, carrots",635
+gymer,user_111,33,female,189,116,32.47,none,omnivore,"lentils, spinach, chia seeds",973
+patient,user_112,38,male,176,52,16.79,cardiovascular disease,vegetarian,"bananas, mushrooms, cashews",593
+patient,user_113,47,male,189,83,23.24,diabetes,vegan,"walnuts, flaxseeds, chia seeds",547
+student,user_114,19,female,168,120,42.52,high blood pressure,omnivore,"broccoli, carrots, green beans",815
+normal,user_115,42,male,159,112,44.3,cardiovascular disease,omnivore,"bananas, spinach, almonds",562
+patient,user_116,29,female,149,78,35.13,high blood pressure,vegan,"lentils, bananas, spinach",579
+patient,user_117,42,female,192,81,21.97,cardiovascular disease,vegetarian,mushrooms,443
+patient,user_118,45,male,147,79,36.56,high blood pressure,omnivore,"sweet potatoes, green beans, broccoli",411
+patient,user_119,57,male,184,69,20.38,high blood pressure,vegan,"tofu, mushrooms, lentils",557
+student,user_120,18,female,158,107,42.86,diabetes,vegan,"flaxseeds, walnuts, chia seeds",600
+gymer,user_121,31,female,158,108,43.26,none,omnivore,"mushrooms, salmon, tofu",1021
+gymer,user_122,31,female,156,72,29.59,none,vegan,"cereal, chia seeds, flaxseeds",1016
+normal,user_123,33,female,184,47,13.88,high blood pressure,vegan,"lentils, tofu",673
+gymer,user_124,49,female,148,111,50.68,none,vegan,"spinach, bananas, kale",1055
+patient,user_125,57,female,154,115,48.49,cardiovascular disease,vegetarian,"walnuts, tofu, flaxseeds",593
+student,user_126,18,female,155,79,32.88,none,vegan,"kale, carrots, broccoli",848
+normal,user_127,38,female,178,55,17.36,high cholesterol,vegetarian,"kale, tofu, lentils",665
+student,user_128,22,female,182,74,22.34,high cholesterol,omnivore,"tofu, eggs, yogurt",794
+gymer,user_129,50,female,194,74,19.66,none,vegetarian,"lentils, chia seeds, flaxseeds",1072
+gymer,user_130,40,female,169,68,23.81,none,vegan,"lentils, tofu, kale",1119
+patient,user_131,55,male,156,83,34.11,high blood pressure,omnivore,"mushrooms, egg yolk, salmon",546
+patient,user_132,29,male,151,77,33.77,diabetes,vegan,"kale, tofu",470
+normal,user_133,33,male,185,107,31.26,none,vegan,"sweet potatoes, chia seeds, flaxseeds",731
+gymer,user_134,23,male,161,104,40.12,none,omnivore,"chicken liver, carrots, spinach",1059
+patient,user_135,25,male,190,72,19.94,diabetes,omnivore,"milk, bananas, kale",565
+student,user_136,20,male,149,80,36.03,high blood pressure,vegan,"tofu, lentils",662
+gymer,user_137,34,female,170,74,25.61,none,vegan,"spinach, bananas, cashews",1148
+gymer,user_138,32,female,149,55,24.77,none,vegan,"bananas, pumpkin seeds, cashews",919
+gymer,user_139,29,female,154,87,36.68,none,vegetarian,"almonds, carrots, cashews",1003
+normal,user_140,39,female,147,83,38.41,diabetes,omnivore,"walnuts, salmon, tofu",564
+patient,user_141,48,female,185,86,25.13,cardiovascular disease,omnivore,"chicken liver, cereal, chicken breast",453
+patient,user_142,26,female,168,96,34.01,diabetes,omnivore,"tofu, spinach, bananas",437
+patient,user_143,28,female,164,94,34.95,high cholesterol,vegan,"walnuts, chia seeds, flaxseeds",500
+normal,user_144,49,male,158,67,26.84,high blood pressure,vegetarian,"kale, tofu",798
+student,user_145,19,male,167,89,31.91,high blood pressure,vegan,mushrooms,686
+patient,user_146,46,female,151,83,36.4,cardiovascular disease,omnivore,"milk, lentils, yogurt",502
+gymer,user_147,27,male,176,72,23.24,none,omnivore,"kale, chia seeds, flaxseeds",1071
+student,user_148,22,female,180,104,32.1,none,vegetarian,"flaxseeds, walnuts, mushrooms",679
+normal,user_149,32,female,175,85,27.76,high blood pressure,omnivore,"mackerel, spinach, chia seeds",653
+gymer,user_150,45,male,180,92,28.4,none,vegan,"oats, sweet potatoes, tofu",950
+normal,user_151,49,female,157,98,39.76,high blood pressure,vegan,"cashews, tofu, almonds",700
+gymer,user_152,56,male,146,119,55.83,none,omnivore,"tofu, kale, milk",953
+patient,user_153,45,male,154,88,37.11,high cholesterol,vegan,"tofu, mushrooms, kale",407
+gymer,user_154,28,male,174,85,28.08,none,vegan,"almonds, flaxseeds, spinach",996
+patient,user_155,48,male,163,87,32.74,diabetes,vegan,"spinach, pumpkin seeds, cereal",530
+normal,user_156,37,male,191,91,24.94,diabetes,vegan,mushrooms,797
+student,user_157,20,female,184,70,20.68,none,vegan,"oats, carrots, broccoli",774
+student,user_158,22,male,145,56,26.63,cardiovascular disease,vegan,"sweet potatoes, oats, lentils",715
+normal,user_159,57,male,155,103,42.87,none,omnivore,"pumpkin seeds, chicken liver, kidney beans",746
+patient,user_160,50,female,151,91,39.91,cardiovascular disease,vegan,"cashews, broccoli, almonds",412
+student,user_161,19,female,160,107,41.8,cardiovascular disease,vegetarian,"flaxseeds, walnuts, chia seeds",734
+gymer,user_162,48,female,151,115,50.44,none,vegan,"pumpkin seeds, kidney beans, tofu",958
+normal,user_163,46,female,162,65,24.77,high blood pressure,vegan,"bananas, spinach, almonds",526
+gymer,user_164,35,female,172,72,24.34,none,omnivore,"mushrooms, pumpkin seeds, milk",915
+student,user_165,22,male,160,119,46.48,none,vegetarian,mushrooms,817
+normal,user_166,55,male,194,89,23.65,high cholesterol,vegan,"chia seeds, almonds, walnuts",693
+student,user_167,19,male,153,104,44.43,cardiovascular disease,vegan,"bananas, carrots, kidney beans",799
+normal,user_168,34,male,159,116,45.88,diabetes,vegetarian,"spinach, kidney beans, pumpkin seeds",529
+gymer,user_169,26,male,150,82,36.44,none,omnivore,"green beans, oats, broccoli",1113
+student,user_170,22,male,184,61,18.02,none,vegan,"sweet potatoes, broccoli, chia seeds",834
+patient,user_171,26,female,155,61,25.39,cardiovascular disease,vegan,"pumpkin seeds, cereal, spinach",429
+student,user_172,22,female,157,116,47.06,cardiovascular disease,vegetarian,"mushrooms, pumpkin seeds, spinach",689
+patient,user_173,55,male,148,55,25.11,cardiovascular disease,omnivore,"bananas, mackerel, chia seeds",562
+normal,user_174,54,male,156,62,25.48,cardiovascular disease,vegetarian,"walnuts, tofu, flaxseeds",658
+normal,user_175,27,female,166,105,38.1,high blood pressure,omnivore,"chia seeds, walnuts, flaxseeds",722
+normal,user_176,25,female,155,49,20.4,high cholesterol,vegetarian,"pumpkin seeds, lentils, tofu",636
+patient,user_177,44,male,174,104,34.35,high cholesterol,vegan,"walnuts, flaxseeds, chia seeds",494
+patient,user_178,45,male,171,103,35.22,cardiovascular disease,vegetarian,"chia seeds, mushrooms, sweet potatoes",557
+normal,user_179,37,male,150,79,35.11,high cholesterol,vegetarian,mushrooms,544
+normal,user_180,50,female,154,81,34.15,diabetes,omnivore,"chicken breast, mackerel, tofu",725
+normal,user_181,47,female,165,90,33.06,high blood pressure,vegan,"walnuts, flaxseeds, chia seeds",617
+student,user_182,22,male,169,106,37.11,none,vegan,"lentils, tofu",612
+patient,user_183,33,female,188,81,22.92,cardiovascular disease,omnivore,"walnuts, mackerel, egg yolk",557
+gymer,user_184,40,female,145,103,48.99,none,omnivore,"carrots, broccoli, milk",990
+gymer,user_185,41,male,151,64,28.07,none,vegetarian,"tofu, lentils",1029
+normal,user_186,24,female,163,99,37.26,none,vegetarian,mushrooms,645
+patient,user_187,25,female,168,118,41.81,high cholesterol,vegetarian,"spinach, cashews, pumpkin seeds",574
+normal,user_188,30,female,194,102,27.1,diabetes,vegan,mushrooms,647
+normal,user_189,51,female,167,106,38.01,none,vegetarian,"sweet potatoes, broccoli, carrots",686
+student,user_190,21,female,168,117,41.45,cardiovascular disease,vegetarian,"walnuts, spinach, flaxseeds",608
+normal,user_191,35,female,187,116,33.17,none,omnivore,"cashews, spinach, almonds",520
+gymer,user_192,44,female,146,110,51.6,none,vegan,"tofu, kale, lentils",902
+patient,user_193,32,female,193,118,31.68,diabetes,vegetarian,"tofu, broccoli, carrots",407
+patient,user_194,30,male,182,114,34.42,cardiovascular disease,vegetarian,"walnuts, mushrooms, chia seeds",535
+normal,user_195,31,male,166,80,29.03,none,vegetarian,mushrooms,696
+gymer,user_196,39,male,190,74,20.5,none,omnivore,"yogurt, cashews, mushrooms",1113
+student,user_197,20,male,191,101,27.69,high cholesterol,vegan,"mushrooms, lentils, tofu",740
+patient,user_198,29,female,193,69,18.52,diabetes,vegan,"spinach, oats, cashews",510
+gymer,user_199,56,female,185,115,33.6,none,omnivore,"cashews, almonds, spinach",1060
+student,user_200,19,male,145,116,55.17,diabetes,vegetarian,"cereal, kidney beans, spinach",741
+normal,user_201,40,male,194,73,19.4,high blood pressure,vegetarian,"bananas, spinach, almonds",544
+gymer,user_202,32,male,152,83,35.92,none,vegan,"tofu, kale, sweet potatoes",946
+gymer,user_203,40,female,158,103,41.26,none,vegetarian,"pumpkin seeds, kidney beans, tofu",1082
+patient,user_204,48,male,184,119,35.15,diabetes,vegan,"broccoli, green beans, tofu",421
+patient,user_205,55,male,158,49,19.63,cardiovascular disease,omnivore,"walnuts, salmon, flaxseeds",452
+student,user_206,19,male,154,52,21.93,none,omnivore,"cereal, pumpkin seeds, chicken liver",836
+normal,user_207,44,female,187,61,17.44,high blood pressure,omnivore,"oats, sweet potatoes, green beans",602
+patient,user_208,50,female,193,88,23.62,cardiovascular disease,vegan,"carrots, broccoli, sweet potatoes",483
+normal,user_209,33,female,179,105,32.77,cardiovascular disease,vegetarian,"mushrooms, tofu, lentils",777
+gymer,user_210,47,female,184,107,31.6,none,omnivore,"milk, mushrooms, salmon",957
+patient,user_211,55,female,175,114,37.22,cardiovascular disease,omnivore,"almonds, oats, bananas",554
+student,user_212,20,female,166,108,39.19,high blood pressure,omnivore,"mushrooms, kidney beans, milk",658
+gymer,user_213,25,female,158,113,45.27,none,vegan,"mushrooms, pumpkin seeds, chia seeds",1068
+normal,user_214,41,female,159,76,30.06,cardiovascular disease,vegan,"flaxseeds, walnuts, mushrooms",623
+normal,user_215,48,female,181,117,35.71,high blood pressure,vegetarian,"tofu, lentils",694
+patient,user_216,49,male,183,73,21.8,high blood pressure,vegetarian,"green beans, kidney beans, carrots",426
+patient,user_217,58,male,159,78,30.85,diabetes,vegan,"sweet potatoes, oats, green beans",451
+gymer,user_218,38,male,161,110,42.44,none,vegan,mushrooms,909
+normal,user_219,41,male,194,76,20.19,none,vegan,"carrots, oats, kale",500
+student,user_220,20,male,170,117,40.48,high blood pressure,omnivore,"yogurt, milk, cheese",783
+student,user_221,18,female,158,104,41.66,diabetes,omnivore,"milk, egg yolk, salmon",765
+student,user_222,18,female,166,87,31.57,diabetes,vegetarian,"spinach, cashews, almonds",675
+gymer,user_223,29,male,164,78,29.0,none,vegan,"kale, carrots, pumpkin seeds",1022
+gymer,user_224,37,male,145,56,26.63,none,omnivore,"egg yolk, milk, flaxseeds",906
+patient,user_225,28,male,152,57,24.67,high blood pressure,vegan,"kidney beans, kale, cashews",590
+patient,user_226,37,female,164,97,36.06,diabetes,vegan,"green beans, mushrooms, broccoli",455
+student,user_227,20,male,187,119,34.03,high cholesterol,vegetarian,"broccoli, chia seeds, carrots",680
+normal,user_228,30,female,153,70,29.9,diabetes,vegan,"broccoli, carrots, green beans",728
+gymer,user_229,36,female,149,78,35.13,none,omnivore,"pumpkin seeds, kidney beans, cashews",1099
+gymer,user_230,51,male,191,53,14.53,none,omnivore,"mackerel, flaxseeds, walnuts",981
+gymer,user_231,26,female,149,66,29.73,none,vegan,"kidney beans, cereal, pumpkin seeds",989
+patient,user_232,41,female,187,99,28.31,cardiovascular disease,vegetarian,"carrots, sweet potatoes, kidney beans",468
+patient,user_233,53,female,188,75,21.22,high blood pressure,vegetarian,mushrooms,457
+normal,user_234,24,male,194,117,31.09,none,vegan,"spinach, cereal, lentils",739
+gymer,user_235,57,female,177,104,33.2,none,omnivore,"lentils, salmon, chicken breast",973
+normal,user_236,35,female,180,120,37.04,diabetes,vegetarian,"carrots, green beans, broccoli",797
+normal,user_237,49,female,152,85,36.79,high cholesterol,vegetarian,"broccoli, sweet potatoes, carrots",521
+student,user_238,22,male,172,69,23.32,high blood pressure,vegetarian,"spinach, flaxseeds, chia seeds",712
+normal,user_239,53,female,182,49,14.79,cardiovascular disease,vegetarian,"pumpkin seeds, lentils, tofu",603
+gymer,user_240,46,male,188,112,31.69,none,vegetarian,"green beans, broccoli, oats",1058
+patient,user_241,40,female,167,79,28.33,cardiovascular disease,vegan,"chia seeds, kidney beans, cereal",495
+patient,user_242,48,female,191,109,29.88,diabetes,omnivore,"walnuts, mackerel, flaxseeds",502
+student,user_243,18,female,185,116,33.89,cardiovascular disease,vegan,"chia seeds, almonds, bananas",621
+student,user_244,21,female,150,62,27.56,high blood pressure,vegetarian,"mushrooms, tofu, kale",832
+normal,user_245,38,female,164,99,36.81,high cholesterol,vegan,"bananas, pumpkin seeds, cashews",730
+normal,user_246,28,male,177,46,14.68,high blood pressure,vegetarian,"lentils, green beans, oats",719
+normal,user_247,54,male,188,109,30.84,cardiovascular disease,omnivore,"milk, mushrooms, egg yolk",578
+gymer,user_248,24,male,166,120,43.55,none,omnivore,"walnuts, mackerel, tofu",904
+gymer,user_249,23,male,193,46,12.35,none,vegan,"oats, almonds, spinach",988
+patient,user_250,57,female,145,64,30.44,high cholesterol,omnivore,"chia seeds, green beans, flaxseeds",501
+gymer,user_251,29,female,186,87,25.15,none,omnivore,"spinach, bananas, cashews",1087
+normal,user_252,38,female,145,92,43.76,high cholesterol,omnivore,"egg yolk, mushrooms, milk",502
+normal,user_253,45,male,146,48,22.52,high blood pressure,omnivore,"spinach, egg yolk, almonds",785
+gymer,user_254,34,female,194,59,15.68,none,omnivore,"tofu, kale, milk",973
+patient,user_255,37,male,188,120,33.95,diabetes,omnivore,"lentils, tofu, bananas",500
+normal,user_256,50,male,165,50,18.37,high blood pressure,vegan,"mushrooms, spinach, almonds",795
+gymer,user_257,23,male,180,65,20.06,none,omnivore,"broccoli, oats, green beans",1079
+student,user_258,22,male,167,56,20.08,none,vegan,"carrots, green beans, flaxseeds",730
+patient,user_259,55,female,147,88,40.72,cardiovascular disease,vegan,"lentils, pumpkin seeds, kidney beans",504
+student,user_260,21,female,172,101,34.14,high cholesterol,vegetarian,"tofu, mushrooms, kale",699
+normal,user_261,41,female,156,108,44.38,high cholesterol,vegan,"oats, green beans, pumpkin seeds",653
+gymer,user_262,40,male,154,96,40.48,none,vegetarian,"lentils, oats, broccoli",1003
+normal,user_263,58,male,156,99,40.68,none,omnivore,"broccoli, walnuts, oats",573
+patient,user_264,57,male,165,85,31.22,diabetes,omnivore,"mushrooms, milk, salmon",451
+patient,user_265,45,female,161,52,20.06,diabetes,vegetarian,"mushrooms, chia seeds, tofu",501
+student,user_266,18,female,165,96,35.26,diabetes,omnivore,"bananas, almonds, spinach",671
+normal,user_267,51,male,157,108,43.82,high cholesterol,vegan,"kale, flaxseeds, walnuts",674
+normal,user_268,56,female,163,62,23.34,high cholesterol,omnivore,"cheese, milk, tofu",775
+student,user_269,22,female,193,46,12.35,high cholesterol,vegan,"sweet potatoes, kale, green beans",658
+student,user_270,22,male,146,63,29.56,diabetes,omnivore,"bananas, almonds, spinach",760
+patient,user_271,49,female,155,57,23.73,high blood pressure,vegan,"mushrooms, tofu, lentils",420
+patient,user_272,33,female,193,56,15.03,cardiovascular disease,vegetarian,"spinach, flaxseeds, lentils",549
+normal,user_273,48,male,181,98,29.91,none,vegetarian,"tofu, bananas, kale",780
+patient,user_274,27,female,158,109,43.66,cardiovascular disease,vegan,"pumpkin seeds, tofu, kidney beans",482
+patient,user_275,31,female,151,108,47.37,high cholesterol,vegan,"chia seeds, walnuts, tofu",544
+student,user_276,18,female,180,83,25.62,diabetes,omnivore,"spinach, salmon, milk",746
+gymer,user_277,44,male,179,47,14.67,none,vegan,"green beans, oats, tofu",1118
+patient,user_278,41,male,182,88,26.57,high blood pressure,vegetarian,"spinach, kale, bananas",495
+gymer,user_279,32,female,177,96,30.64,none,vegetarian,"lentils, mushrooms, kale",1044
+student,user_280,21,female,164,76,28.26,high blood pressure,vegan,"tofu, chia seeds, walnuts",634
+student,user_281,18,male,162,53,20.2,high blood pressure,omnivore,"eggs, lentils, walnuts",611
+patient,user_282,35,female,148,83,37.89,high cholesterol,vegetarian,"bananas, tofu, spinach",501
+patient,user_283,43,female,146,93,43.63,high blood pressure,vegan,"almonds, cashews, bananas",555
+normal,user_284,57,female,153,112,47.84,high blood pressure,omnivore,"mushrooms, almonds, chicken liver",704
+gymer,user_285,44,male,181,51,15.57,none,vegan,"cashews, bananas, spinach",1071
+normal,user_286,24,female,167,45,16.14,diabetes,omnivore,"milk, walnuts, kale",535
+patient,user_287,57,male,148,52,23.74,diabetes,vegetarian,"green beans, carrots, oats",471
+normal,user_288,49,male,193,61,16.38,diabetes,vegetarian,"tofu, kale",611
+student,user_289,18,female,155,91,37.88,diabetes,vegetarian,"lentils, cereal, spinach",708
+normal,user_290,27,male,185,72,21.04,high cholesterol,omnivore,"lentils, eggs, tofu",694
+normal,user_291,56,male,154,71,29.94,high blood pressure,vegetarian,"almonds, chia seeds, walnuts",632
+gymer,user_292,27,male,169,75,26.26,none,vegan,"kale, green beans, carrots",1144
+student,user_293,19,female,188,71,20.09,high blood pressure,omnivore,"chicken liver, kidney beans, spinach",814
+patient,user_294,52,female,172,87,29.41,high blood pressure,omnivore,"tofu, eggs, pumpkin seeds",449
+student,user_295,18,male,187,58,16.59,high cholesterol,omnivore,"egg yolk, mushrooms, salmon",682
+patient,user_296,34,female,150,115,51.11,high cholesterol,omnivore,"chicken liver, mushrooms, oats",461
+student,user_297,20,female,157,57,23.12,high cholesterol,vegan,"walnuts, flaxseeds, chia seeds",779
+gymer,user_298,43,female,177,82,26.17,none,vegetarian,"tofu, carrots, oats",947
+student,user_299,22,male,157,108,43.82,cardiovascular disease,omnivore,"kale, salmon, chicken liver",669
+student,user_300,22,female,184,78,23.04,none,vegan,"flaxseeds, oats, chia seeds",701
+gymer,user_301,44,female,191,81,22.2,none,vegetarian,"sweet potatoes, carrots, broccoli",989
+gymer,user_302,29,male,188,118,33.39,none,vegan,"chia seeds, walnuts, flaxseeds",975
+patient,user_303,56,male,189,91,25.48,high blood pressure,omnivore,"chicken liver, kidney beans, milk",472
+normal,user_304,48,female,189,112,31.35,none,vegetarian,"oats, tofu, sweet potatoes",739
+gymer,user_305,23,male,166,113,41.01,none,vegetarian,"flaxseeds, walnuts, chia seeds",1051
+gymer,user_306,50,male,173,108,36.09,none,omnivore,"lentils, bananas, spinach",982
+student,user_307,21,male,168,79,27.99,high blood pressure,vegan,"bananas, spinach, lentils",798
+gymer,user_308,41,female,157,106,43.0,none,omnivore,"kidney beans, pumpkin seeds, chicken liver",1144
+normal,user_309,31,female,158,81,32.45,diabetes,vegetarian,"bananas, cereal, cashews",744
+student,user_310,20,male,161,69,26.62,cardiovascular disease,omnivore,"milk, tofu, kale",627
+patient,user_311,37,male,168,87,30.82,cardiovascular disease,vegetarian,"lentils, tofu",506
+student,user_312,21,female,148,65,29.67,high cholesterol,vegan,"lentils, tofu",651
+student,user_313,18,male,192,69,18.72,none,vegan,"cereal, kidney beans, pumpkin seeds",789
+patient,user_314,23,male,156,73,30.0,high blood pressure,omnivore,"cheese, carrots, kale",486
+patient,user_315,54,male,149,64,28.83,cardiovascular disease,omnivore,"almonds, salmon, cashews",490
+gymer,user_316,25,male,193,65,17.45,none,omnivore,"lentils, tofu, green beans",1118
+normal,user_317,29,male,174,75,24.77,diabetes,vegetarian,"oats, green beans, almonds",619
+student,user_318,18,female,180,51,15.74,high cholesterol,vegetarian,"kale, tofu, pumpkin seeds",849
+normal,user_319,37,male,165,108,39.67,diabetes,vegan,"mushrooms, walnuts, chia seeds",574
+student,user_320,20,male,183,47,14.03,none,omnivore,"mushrooms, tofu, chia seeds",637
+normal,user_321,29,female,174,73,24.11,none,omnivore,"mackerel, almonds, chia seeds",618
+student,user_322,22,male,163,81,30.49,high blood pressure,omnivore,"chicken liver, cereal, pumpkin seeds",632
+normal,user_323,49,female,183,113,33.74,high cholesterol,omnivore,"milk, cheese, tofu",752
+normal,user_324,47,male,192,62,16.82,high cholesterol,omnivore,"spinach, cereal, kale",667
+student,user_325,22,female,164,61,22.68,cardiovascular disease,vegetarian,"pumpkin seeds, kidney beans, cereal",647
+normal,user_326,49,male,158,118,47.27,high blood pressure,vegan,"sweet potatoes, oats, bananas",613
+student,user_327,22,female,154,116,48.91,high cholesterol,omnivore,"salmon, egg yolk, milk",665
+gymer,user_328,38,male,175,105,34.29,none,vegan,"tofu, kale, sweet potatoes",1117
+gymer,user_329,41,female,171,106,36.25,none,vegan,"green beans, tofu, oats",931
+student,user_330,20,female,168,56,19.84,high blood pressure,vegetarian,"chia seeds, spinach, walnuts",723
+normal,user_331,54,female,168,65,23.03,high blood pressure,vegan,"spinach, kidney beans, cereal",700
+student,user_332,18,female,146,47,22.05,diabetes,omnivore,"broccoli, bananas, almonds",652
+patient,user_333,36,female,151,100,43.86,high blood pressure,vegetarian,"pumpkin seeds, kale, lentils",518
+student,user_334,22,male,146,84,39.41,high blood pressure,vegan,"tofu, lentils, mushrooms",669
+patient,user_335,48,male,154,112,47.23,high blood pressure,vegan,"bananas, chia seeds, spinach",447
+normal,user_336,41,male,149,70,31.53,cardiovascular disease,vegan,"spinach, cashews, cereal",609
+normal,user_337,55,female,147,67,31.01,diabetes,vegan,"carrots, green beans, broccoli",746
+student,user_338,22,male,180,48,14.81,high cholesterol,vegetarian,"tofu, lentils",727
+patient,user_339,46,male,166,51,18.51,diabetes,vegetarian,"lentils, mushrooms, spinach",548
+gymer,user_340,56,male,156,85,34.93,none,vegetarian,"green beans, oats, sweet potatoes",1009
+gymer,user_341,49,male,176,65,20.98,none,vegan,"pumpkin seeds, cereal, tofu",964
+normal,user_342,34,female,193,89,23.89,high cholesterol,vegetarian,"broccoli, carrots, mushrooms",567
+normal,user_343,54,female,192,86,23.33,high blood pressure,vegan,"sweet potatoes, broccoli, green beans",564
+patient,user_344,55,female,195,106,27.88,diabetes,vegetarian,"cereal, tofu, kidney beans",495
+normal,user_345,51,female,168,70,24.8,none,vegetarian,"chia seeds, almonds, walnuts",726
+student,user_346,19,male,146,100,46.91,high cholesterol,vegetarian,"kidney beans, cereal, pumpkin seeds",801
+student,user_347,21,female,170,85,29.41,none,vegan,"sweet potatoes, oats, broccoli",732
+patient,user_348,49,male,167,101,36.21,high blood pressure,vegan,"carrots, green beans, oats",583
+normal,user_349,42,male,161,116,44.75,cardiovascular disease,omnivore,"yogurt, salmon, chicken breast",752
+student,user_350,22,male,151,52,22.81,high blood pressure,vegan,"spinach, bananas, almonds",649
+normal,user_351,27,female,186,94,27.17,cardiovascular disease,vegetarian,"lentils, tofu",503
+student,user_352,20,male,190,102,28.25,cardiovascular disease,vegetarian,"tofu, lentils",785
+normal,user_353,30,female,182,96,28.98,diabetes,vegetarian,"pumpkin seeds, sweet potatoes, spinach",747
+normal,user_354,23,female,159,50,19.78,diabetes,vegan,"tofu, broccoli, green beans",787
+student,user_355,22,female,152,99,42.85,diabetes,omnivore,"oats, green beans, salmon",691
+normal,user_356,44,male,180,62,19.14,high cholesterol,omnivore,"kidney beans, green beans, chicken liver",647
+student,user_357,22,female,152,116,50.21,high blood pressure,omnivore,"broccoli, oats, green beans",659
+normal,user_358,45,female,150,57,25.33,high cholesterol,vegetarian,"cereal, lentils, kidney beans",658
+student,user_359,20,male,155,84,34.96,none,vegetarian,"bananas, sweet potatoes, almonds",615
+gymer,user_360,38,male,169,90,31.51,none,omnivore,"mackerel, flaxseeds, walnuts",990
+student,user_361,21,female,149,73,32.88,none,vegan,"green beans, chia seeds, kidney beans",743
+patient,user_362,55,female,170,110,38.06,high blood pressure,omnivore,"lentils, eggs, chicken breast",582
+gymer,user_363,34,female,188,99,28.01,none,omnivore,"yogurt, carrots, chia seeds",1051
+patient,user_364,23,male,171,75,25.65,diabetes,omnivore,"walnuts, flaxseeds, mackerel",539
+gymer,user_365,39,female,175,105,34.29,none,omnivore,"chicken breast, eggs, walnuts",937
+patient,user_366,25,female,178,108,34.09,cardiovascular disease,omnivore,"flaxseeds, mackerel, cashews",509
+patient,user_367,28,male,194,72,19.13,cardiovascular disease,vegetarian,"cereal, tofu, spinach",572
+gymer,user_368,35,male,153,78,33.32,none,vegetarian,"tofu, mushrooms, lentils",937
+gymer,user_369,24,female,164,120,44.62,none,vegetarian,"tofu, cashews, kale",933
+normal,user_370,26,female,188,70,19.81,high cholesterol,vegan,"sweet potatoes, broccoli, carrots",775
+student,user_371,19,female,181,83,25.34,high blood pressure,omnivore,"mushrooms, bananas, kidney beans",639
+normal,user_372,54,female,160,71,27.73,high blood pressure,vegan,"spinach, cashews, almonds",721
+gymer,user_373,28,female,169,77,26.96,none,omnivore,"green beans, broccoli, sweet potatoes",1129
+patient,user_374,52,female,165,84,30.85,diabetes,vegan,"bananas, pumpkin seeds, cashews",458
+student,user_375,22,female,178,58,18.31,high cholesterol,vegan,"cashews, bananas, cereal",834
+normal,user_376,56,female,173,57,19.05,high blood pressure,omnivore,"spinach, almonds, oats",711
+patient,user_377,46,male,172,103,34.82,cardiovascular disease,omnivore,"milk, cheese, tofu",411
+student,user_378,20,female,168,102,36.14,high blood pressure,omnivore,"tofu, flaxseeds, cashews",691
+student,user_379,21,male,173,47,15.7,cardiovascular disease,vegan,"walnuts, flaxseeds, carrots",633
+normal,user_380,28,female,192,74,20.07,high blood pressure,vegan,mushrooms,559
+student,user_381,20,male,195,52,13.68,cardiovascular disease,vegan,"mushrooms, spinach, cereal",829
+normal,user_382,58,female,169,90,31.51,diabetes,omnivore,"cheese, eggs, tofu",532
+student,user_383,22,male,154,68,28.67,high blood pressure,vegetarian,"almonds, walnuts, cashews",805
+student,user_384,21,female,170,84,29.07,diabetes,vegan,"kale, sweet potatoes, broccoli",759
+student,user_385,20,male,164,51,18.96,none,vegetarian,"cashews, cereal, spinach",699
+normal,user_386,25,female,189,64,17.92,high blood pressure,vegan,"kale, almonds, spinach",582
+normal,user_387,56,male,175,46,15.02,none,vegan,"kale, tofu",719
+gymer,user_388,38,male,180,59,18.21,none,vegetarian,"carrots, broccoli, sweet potatoes",1008
+normal,user_389,32,female,171,46,15.73,none,vegetarian,"tofu, lentils",667
+normal,user_390,50,male,145,105,49.94,none,omnivore,"chia seeds, mackerel, flaxseeds",730
+normal,user_391,27,female,161,93,35.88,high cholesterol,vegetarian,"kidney beans, tofu, pumpkin seeds",800
+gymer,user_392,40,male,160,80,31.25,none,vegan,"chia seeds, walnuts, flaxseeds",1024
+patient,user_393,58,female,151,67,29.38,high blood pressure,omnivore,"pumpkin seeds, bananas, spinach",571
+student,user_394,22,female,176,108,34.87,diabetes,vegan,"tofu, lentils, kale",747
+student,user_395,20,female,164,87,32.35,high blood pressure,omnivore,"mushrooms, salmon, egg yolk",777
+gymer,user_396,46,male,162,83,31.63,none,vegan,"green beans, tofu, carrots",1127
+normal,user_397,53,female,187,110,31.46,none,vegan,"kale, tofu",672
+gymer,user_398,55,female,169,65,22.76,none,vegetarian,"lentils, tofu, green beans",926
+student,user_399,22,male,154,105,44.27,high cholesterol,vegan,"carrots, sweet potatoes, green beans",701
+gymer,user_400,45,female,147,107,49.52,none,omnivore,"sweet potatoes, carrots, broccoli",1050
+student,user_401,21,female,179,103,32.15,high cholesterol,vegetarian,"spinach, kidney beans, mushrooms",741
+student,user_402,18,female,165,69,25.34,high blood pressure,vegetarian,"mushrooms, walnuts, spinach",789
+normal,user_403,40,male,164,99,36.81,none,vegetarian,"green beans, oats, carrots",504
+normal,user_404,40,male,189,78,21.84,high cholesterol,omnivore,"cashews, cheese, milk",772
+normal,user_405,45,male,187,116,33.17,diabetes,vegan,"almonds, walnuts, tofu",674
+patient,user_406,43,female,171,102,34.88,high cholesterol,vegetarian,"broccoli, carrots, oats",562
+gymer,user_407,42,female,193,116,31.14,none,omnivore,"cheese, milk, tofu",1091
+normal,user_408,36,male,156,95,39.04,none,vegetarian,"walnuts, lentils, chia seeds",729
+gymer,user_409,26,male,172,82,27.72,none,vegetarian,"tofu, kale",1111
+student,user_410,20,female,168,77,27.28,high blood pressure,vegan,"pumpkin seeds, chia seeds, spinach",697
+patient,user_411,55,female,157,112,45.44,high cholesterol,vegan,"spinach, almonds, chia seeds",424
+student,user_412,20,male,166,115,41.73,cardiovascular disease,omnivore,"lentils, chicken breast, mackerel",676
+patient,user_413,44,male,165,67,24.61,diabetes,vegetarian,"kidney beans, pumpkin seeds, bananas",544
+student,user_414,21,female,183,71,21.2,high blood pressure,vegetarian,"oats, sweet potatoes, broccoli",800
+student,user_415,20,female,145,52,24.73,none,omnivore,"chicken liver, yogurt, pumpkin seeds",630
+normal,user_416,35,female,173,109,36.42,diabetes,vegan,"broccoli, sweet potatoes, tofu",785
+gymer,user_417,36,male,154,60,25.3,none,vegan,"carrots, kale, lentils",1033
+gymer,user_418,50,male,169,71,24.86,none,omnivore,"green beans, salmon, oats",1017
+gymer,user_419,57,male,188,64,18.11,none,vegetarian,"carrots, broccoli, sweet potatoes",1056
+patient,user_420,38,female,168,80,28.34,cardiovascular disease,vegetarian,"pumpkin seeds, kidney beans, cereal",417
+normal,user_421,36,female,193,46,12.35,none,vegetarian,"green beans, kidney beans, broccoli",752
+patient,user_422,51,female,175,113,36.9,diabetes,omnivore,"kale, cheese, milk",556
+gymer,user_423,28,male,168,45,15.94,none,vegetarian,"cereal, kidney beans, tofu",1034
+normal,user_424,42,male,146,109,51.14,cardiovascular disease,vegan,"carrots, kale, oats",562
+student,user_425,22,female,162,60,22.86,high cholesterol,vegan,"mushrooms, tofu, lentils",846
+gymer,user_426,28,female,163,119,44.79,none,omnivore,"salmon, milk, almonds",977
+student,user_427,20,female,167,102,36.57,diabetes,omnivore,"kidney beans, bananas, chicken liver",610
+gymer,user_428,55,male,146,91,42.69,none,vegan,"tofu, kale, mushrooms",995
+normal,user_429,42,male,153,63,26.91,diabetes,vegan,mushrooms,743
+normal,user_430,58,male,161,66,25.46,none,omnivore,"pumpkin seeds, cereal, yogurt",567
+gymer,user_431,55,male,190,57,15.79,none,vegan,"cashews, bananas, almonds",1008
+normal,user_432,57,male,156,88,36.16,diabetes,omnivore,"mackerel, walnuts, chia seeds",523
+patient,user_433,28,female,160,100,39.06,diabetes,vegan,"mushrooms, tofu, kale",529
+gymer,user_434,30,female,154,48,20.24,none,omnivore,"oats, carrots, green beans",1042
+student,user_435,21,male,153,78,33.32,high cholesterol,vegan,"tofu, cereal, spinach",705
+patient,user_436,51,male,159,89,35.2,high blood pressure,vegetarian,"tofu, kale",501
+student,user_437,19,male,146,81,38.0,high cholesterol,vegan,"tofu, walnuts, flaxseeds",720
+patient,user_438,36,male,153,52,22.21,high cholesterol,omnivore,"flaxseeds, walnuts, mushrooms",450
+student,user_439,21,female,149,115,51.8,high blood pressure,vegetarian,"flaxseeds, chia seeds, walnuts",747
+patient,user_440,57,male,165,102,37.47,high cholesterol,vegan,"spinach, cereal, pumpkin seeds",412
+student,user_441,19,female,183,102,30.46,diabetes,omnivore,"lentils, yogurt, mackerel",806
+student,user_442,20,male,164,67,24.91,cardiovascular disease,omnivore,"bananas, mackerel, cashews",758
+patient,user_443,46,female,176,116,37.45,high blood pressure,vegan,"kidney beans, spinach, pumpkin seeds",492
+normal,user_444,57,male,189,46,12.88,cardiovascular disease,omnivore,"chia seeds, milk, almonds",659
+gymer,user_445,35,male,191,111,30.43,none,omnivore,"pumpkin seeds, kidney beans, salmon",1052
+student,user_446,20,female,189,59,16.52,none,omnivore,"oats, tofu, green beans",825
+patient,user_447,39,female,160,60,23.44,high cholesterol,vegan,"mushrooms, tofu, kale",419
+student,user_448,21,female,164,102,37.92,none,vegetarian,"spinach, walnuts, chia seeds",735
+gymer,user_449,44,female,193,102,27.38,none,omnivore,"bananas, mushrooms, spinach",1065
+gymer,user_450,40,male,153,118,50.41,none,vegan,"kidney beans, pumpkin seeds, cereal",905
+student,user_451,22,male,174,65,21.47,high blood pressure,vegetarian,"cereal, spinach, kidney beans",845
+student,user_452,19,female,175,49,16.0,high blood pressure,vegetarian,"walnuts, flaxseeds, chia seeds",773
+normal,user_453,48,female,177,50,15.96,high cholesterol,vegetarian,"carrots, cereal, spinach",547
+student,user_454,18,male,157,106,43.0,none,vegetarian,"almonds, cashews, bananas",654
+normal,user_455,38,female,194,46,12.22,cardiovascular disease,vegetarian,"chia seeds, walnuts, kale",704
+gymer,user_456,35,male,183,57,17.02,none,vegetarian,"flaxseeds, cereal, walnuts",1140
+student,user_457,22,female,194,97,25.77,diabetes,omnivore,"kidney beans, pumpkin seeds, chia seeds",718
+student,user_458,20,male,185,119,34.77,high blood pressure,vegan,"kidney beans, spinach, lentils",664
+student,user_459,21,female,157,93,37.73,high blood pressure,omnivore,"milk, salmon, egg yolk",600
+gymer,user_460,57,male,147,106,49.05,none,vegan,"green beans, kale, carrots",961
+normal,user_461,29,female,182,49,14.79,high blood pressure,omnivore,"walnuts, milk, egg yolk",510
+gymer,user_462,23,female,185,118,34.48,none,vegan,"broccoli, sweet potatoes, carrots",1011
+normal,user_463,29,female,164,62,23.05,high cholesterol,omnivore,"spinach, pumpkin seeds, kidney beans",709
+student,user_464,19,female,172,63,21.3,high blood pressure,omnivore,"spinach, cashews, mackerel",763
+gymer,user_465,47,male,160,55,21.48,none,vegan,"flaxseeds, walnuts, tofu",1035
+gymer,user_466,53,female,148,88,40.18,none,omnivore,"chia seeds, cashews, mackerel",1096
+normal,user_467,52,male,183,52,15.53,diabetes,vegetarian,"kale, spinach, kidney beans",680
+student,user_468,19,male,159,47,18.59,cardiovascular disease,omnivore,"chicken breast, tofu, yogurt",700
+gymer,user_469,23,female,161,101,38.96,none,vegan,"walnuts, flaxseeds, chia seeds",1101
+normal,user_470,45,female,174,118,38.97,none,omnivore,"eggs, tofu, chicken breast",770
+normal,user_471,51,female,187,68,19.45,none,omnivore,"mackerel, flaxseeds, chia seeds",725
+student,user_472,18,female,172,79,26.7,diabetes,vegan,"kale, tofu",608
+student,user_473,22,female,153,63,26.91,high cholesterol,vegetarian,"kale, tofu, carrots",826
+gymer,user_474,38,male,159,115,45.49,none,vegan,"sweet potatoes, carrots, green beans",916
+normal,user_475,42,female,157,97,39.35,cardiovascular disease,vegetarian,"broccoli, mushrooms, green beans",781
+patient,user_476,38,female,158,97,38.86,high blood pressure,vegetarian,"sweet potatoes, oats, carrots",560
+student,user_477,20,female,192,102,27.67,high cholesterol,omnivore,"oats, salmon, carrots",680
+patient,user_478,35,male,151,79,34.65,high blood pressure,omnivore,"flaxseeds, spinach, bananas",455
+normal,user_479,53,male,172,110,37.18,high cholesterol,omnivore,"milk, salmon, mushrooms",692
+student,user_480,18,female,160,119,46.48,none,vegetarian,"spinach, lentils, cereal",842
+normal,user_481,58,male,194,54,14.35,none,omnivore,"cereal, kidney beans, milk",684
+patient,user_482,45,male,194,111,29.49,high blood pressure,vegetarian,mushrooms,568
+gymer,user_483,57,female,195,66,17.36,none,vegetarian,"almonds, bananas, cashews",918
+gymer,user_484,51,male,178,103,32.51,none,vegan,"chia seeds, sweet potatoes, flaxseeds",952
+patient,user_485,56,male,188,84,23.77,high cholesterol,vegetarian,"spinach, pumpkin seeds, cereal",533
+normal,user_486,43,male,182,92,27.77,high cholesterol,vegan,"kale, carrots, green beans",779
+student,user_487,19,female,195,93,24.46,diabetes,vegetarian,"tofu, kidney beans, spinach",731
+gymer,user_488,42,male,151,85,37.28,none,vegetarian,"kale, tofu",963
+normal,user_489,39,male,180,85,26.23,none,vegan,mushrooms,727
+patient,user_490,45,female,166,45,16.33,diabetes,omnivore,"cereal, chicken liver, bananas",471
+patient,user_491,41,male,148,75,34.24,high blood pressure,omnivore,"milk, carrots, kidney beans",506
+normal,user_492,29,male,156,108,44.38,high blood pressure,vegan,"almonds, bananas, cashews",584
+normal,user_493,36,male,152,116,50.21,diabetes,vegetarian,"cereal, spinach, tofu",624
+gymer,user_494,47,female,174,78,25.76,none,vegan,"bananas, almonds, kale",1099
+patient,user_495,46,female,155,52,21.64,cardiovascular disease,omnivore,"salmon, egg yolk, mushrooms",573
+patient,user_496,56,female,174,110,36.33,cardiovascular disease,vegetarian,"green beans, sweet potatoes, oats",446
+patient,user_497,48,male,167,97,34.78,high blood pressure,vegan,"tofu, mushrooms, kale",425
+patient,user_498,53,female,192,117,31.74,high cholesterol,vegetarian,"lentils, tofu",554
+normal,user_499,53,female,184,65,19.2,high blood pressure,vegetarian,"broccoli, green beans, carrots",540
+gymer,user_500,23,female,174,80,26.42,none,vegetarian,"sweet potatoes, green beans, oats",901
+gymer,user_501,51,female,146,71,33.31,none,vegetarian,"tofu, kale",1022
+student,user_502,18,male,183,114,34.04,high cholesterol,vegetarian,"spinach, cashews, bananas",847
+gymer,user_503,30,male,183,78,23.29,none,omnivore,"walnuts, kale, cashews",957
+normal,user_504,46,male,189,70,19.6,high cholesterol,vegetarian,"cashews, bananas, spinach",757
+gymer,user_505,24,female,174,108,35.67,none,vegan,"kidney beans, flaxseeds, cashews",922
+patient,user_506,46,male,190,84,23.27,high blood pressure,omnivore,"salmon, egg yolk, milk",570
+gymer,user_507,39,male,153,95,40.58,none,vegetarian,"walnuts, kidney beans, spinach",926
+student,user_508,21,female,161,76,29.32,high cholesterol,omnivore,"lentils, eggs, kale",763
+patient,user_509,52,male,176,114,36.8,high blood pressure,vegan,"green beans, kale, sweet potatoes",451
+gymer,user_510,40,male,149,54,24.32,none,vegetarian,"chia seeds, cereal, walnuts",1073
+normal,user_511,35,male,153,65,27.77,none,omnivore,"milk, tofu, cheese",572
+patient,user_512,54,female,182,73,22.04,diabetes,vegetarian,"carrots, lentils, sweet potatoes",486
+patient,user_513,38,male,195,88,23.14,diabetes,vegan,"sweet potatoes, carrots, broccoli",513
+gymer,user_514,37,female,155,81,33.71,none,vegan,"spinach, tofu, cereal",990
+student,user_515,20,male,169,68,23.81,high blood pressure,vegetarian,"pumpkin seeds, cereal, spinach",684
+patient,user_516,30,male,156,47,19.31,cardiovascular disease,omnivore,"oats, sweet potatoes, spinach",550
+student,user_517,19,female,162,70,26.67,high cholesterol,vegetarian,"mushrooms, broccoli, green beans",834
+normal,user_518,48,male,173,91,30.41,none,vegan,"carrots, mushrooms, broccoli",737
+gymer,user_519,31,female,154,107,45.12,none,omnivore,"bananas, spinach, almonds",1064
+normal,user_520,39,female,171,49,16.76,high cholesterol,vegan,"spinach, pumpkin seeds, lentils",689
+patient,user_521,24,female,179,116,36.2,cardiovascular disease,vegetarian,"tofu, sweet potatoes, lentils",433
+patient,user_522,55,female,156,52,21.37,high blood pressure,vegetarian,"chia seeds, walnuts, mushrooms",420
+gymer,user_523,40,male,159,69,27.29,none,vegetarian,"cashews, broccoli, kale",1141
+gymer,user_524,38,male,178,50,15.78,none,vegetarian,"kale, kidney beans, cereal",1054
+student,user_525,18,male,181,55,16.79,none,omnivore,"kidney beans, chicken liver, pumpkin seeds",633
+patient,user_526,28,male,167,107,38.37,cardiovascular disease,vegetarian,"almonds, spinach, mushrooms",522
+patient,user_527,58,female,153,49,20.93,diabetes,omnivore,"tofu, bananas, kale",474
+patient,user_528,29,male,172,55,18.59,cardiovascular disease,vegetarian,"spinach, bananas, almonds",447
+gymer,user_529,54,male,157,98,39.76,none,omnivore,"mushrooms, cashews, egg yolk",925
+gymer,user_530,39,female,187,93,26.59,none,vegetarian,"cashews, bananas, spinach",958
+patient,user_531,31,female,195,87,22.88,diabetes,omnivore,"broccoli, spinach, bananas",517
+normal,user_532,52,female,181,89,27.17,cardiovascular disease,vegan,"carrots, mushrooms, oats",520
+student,user_533,19,male,154,93,39.21,none,vegan,"spinach, almonds, bananas",736
+normal,user_534,40,male,152,95,41.12,cardiovascular disease,vegan,"kidney beans, spinach, pumpkin seeds",692
+patient,user_535,32,male,147,80,37.02,high blood pressure,vegetarian,"green beans, broccoli, oats",533
+normal,user_536,30,male,187,96,27.45,high blood pressure,omnivore,"egg yolk, cereal, spinach",784
+normal,user_537,52,male,163,52,19.57,cardiovascular disease,omnivore,"flaxseeds, chia seeds, walnuts",643
+student,user_538,19,female,167,76,27.25,high cholesterol,vegan,"mushrooms, tofu, kale",668
+gymer,user_539,27,male,185,115,33.6,none,omnivore,"green beans, sweet potatoes, carrots",953
+patient,user_540,57,male,179,86,26.84,high cholesterol,vegan,"tofu, lentils",536
+normal,user_541,43,male,184,118,34.85,high cholesterol,vegan,"cereal, mushrooms, spinach",568
+patient,user_542,26,female,147,94,43.5,high cholesterol,vegetarian,"pumpkin seeds, cereal, kidney beans",454
+student,user_543,22,female,173,65,21.72,high cholesterol,vegetarian,"spinach, mushrooms, cereal",683
+normal,user_544,31,female,193,76,20.4,high blood pressure,omnivore,"mackerel, flaxseeds, walnuts",682
+patient,user_545,54,male,145,60,28.54,cardiovascular disease,vegan,"kale, broccoli, kidney beans",502
+gymer,user_546,43,female,184,96,28.36,none,vegan,"kidney beans, spinach, cereal",1004
+normal,user_547,24,female,179,66,20.6,high blood pressure,omnivore,"oats, green beans, milk",775
+gymer,user_548,54,female,188,85,24.05,none,omnivore,"eggs, bananas, sweet potatoes",926
+student,user_549,21,male,183,60,17.92,high cholesterol,omnivore,"pumpkin seeds, almonds, spinach",757
+student,user_550,22,male,181,76,23.2,high cholesterol,omnivore,"milk, cheese, kale",699
+patient,user_551,25,female,151,73,32.02,cardiovascular disease,vegan,"walnuts, lentils, tofu",429
+normal,user_552,41,female,184,87,25.7,cardiovascular disease,vegetarian,"tofu, kale",609
+student,user_553,20,male,154,74,31.2,cardiovascular disease,vegetarian,"sweet potatoes, oats, spinach",679
+gymer,user_554,27,male,177,86,27.45,none,vegetarian,"green beans, sweet potatoes, oats",1022
+gymer,user_555,26,female,186,86,24.86,none,vegetarian,"pumpkin seeds, spinach, kidney beans",995
+gymer,user_556,56,female,151,55,24.12,none,vegetarian,"cereal, spinach, kidney beans",916
+gymer,user_557,27,female,182,107,32.3,none,vegan,"lentils, tofu, spinach",999
+student,user_558,21,female,167,111,39.8,high cholesterol,vegetarian,"broccoli, spinach, lentils",714
+student,user_559,20,male,189,62,17.36,high blood pressure,omnivore,"salmon, spinach, chicken breast",718
+gymer,user_560,55,male,158,106,42.46,none,vegetarian,"spinach, bananas, cashews",912
+patient,user_561,51,male,195,119,31.3,cardiovascular disease,vegetarian,"walnuts, tofu, lentils",436
+gymer,user_562,25,female,192,47,12.75,none,omnivore,"chicken breast, cheese, salmon",901
+normal,user_563,33,female,160,66,25.78,none,vegan,"broccoli, green beans, sweet potatoes",643
+normal,user_564,43,male,147,101,46.74,cardiovascular disease,vegetarian,"cashews, almonds, spinach",747
+gymer,user_565,30,male,195,48,12.62,none,vegetarian,"lentils, tofu, kale",1024
+normal,user_566,44,female,158,108,43.26,cardiovascular disease,vegan,"cashews, almonds, bananas",622
+patient,user_567,54,female,190,76,21.05,high blood pressure,vegan,"walnuts, chia seeds, flaxseeds",414
+gymer,user_568,49,male,179,47,14.67,none,vegan,"broccoli, lentils, carrots",925
+patient,user_569,31,female,195,90,23.67,high blood pressure,omnivore,"lentils, eggs, salmon",438
+gymer,user_570,52,male,165,103,37.83,none,vegan,"bananas, spinach, cashews",1026
+patient,user_571,24,female,195,65,17.09,high cholesterol,vegan,"cashews, cereal, kidney beans",541
+patient,user_572,53,female,157,65,26.37,high blood pressure,vegetarian,"kale, broccoli, sweet potatoes",594
+normal,user_573,58,female,161,50,19.29,high blood pressure,omnivore,"salmon, milk, mushrooms",642
+patient,user_574,44,female,169,117,40.96,high blood pressure,vegan,"carrots, chia seeds, mushrooms",450
+gymer,user_575,31,female,184,61,18.02,none,vegan,"tofu, kale",969
+student,user_576,18,male,174,76,25.1,diabetes,omnivore,"mushrooms, lentils, cereal",728
+normal,user_577,32,male,184,70,20.68,diabetes,vegan,"kale, tofu",698
+student,user_578,21,male,177,111,35.43,high cholesterol,vegetarian,"pumpkin seeds, spinach, kidney beans",742
+normal,user_579,30,male,170,117,40.48,high blood pressure,vegetarian,"spinach, almonds, cashews",780
+gymer,user_580,54,male,151,111,48.68,none,omnivore,"lentils, yogurt, tofu",1121
+gymer,user_581,40,male,151,71,31.14,none,vegetarian,mushrooms,1024
+student,user_582,21,female,161,93,35.88,high blood pressure,vegetarian,"carrots, cereal, broccoli",657
+patient,user_583,38,male,172,77,26.03,diabetes,vegetarian,"kale, mushrooms, tofu",402
+normal,user_584,53,male,145,116,55.17,high blood pressure,vegan,"kale, spinach, bananas",766
+patient,user_585,30,female,193,85,22.82,diabetes,omnivore,"salmon, chia seeds, milk",482
+student,user_586,19,male,171,46,15.73,none,vegetarian,"spinach, lentils, cereal",606
+gymer,user_587,32,female,174,80,26.42,none,vegetarian,"mushrooms, cereal, spinach",968
+patient,user_588,30,male,170,69,23.88,cardiovascular disease,vegan,"kidney beans, green beans, cereal",574
+student,user_589,20,female,183,100,29.86,cardiovascular disease,vegetarian,"kale, tofu, mushrooms",768
+student,user_590,20,male,192,56,15.19,high cholesterol,omnivore,"kale, milk, cheese",637
+gymer,user_591,51,female,181,85,25.95,none,vegetarian,"oats, green beans, carrots",1144
+patient,user_592,36,female,186,111,32.08,diabetes,vegetarian,"tofu, broccoli, oats",595
+student,user_593,18,male,194,89,23.65,none,vegetarian,"tofu, spinach, bananas",834
+student,user_594,22,female,154,72,30.36,cardiovascular disease,omnivore,"bananas, tofu, spinach",768
+normal,user_595,48,female,183,94,28.07,high cholesterol,vegetarian,"lentils, chia seeds, tofu",628
+student,user_596,18,male,179,97,30.27,high cholesterol,omnivore,"lentils, yogurt, carrots",731
+gymer,user_597,42,male,168,102,36.14,none,vegan,"almonds, cashews, kidney beans",930
+gymer,user_598,23,male,177,72,22.98,none,vegan,"kale, sweet potatoes, tofu",1041
+normal,user_599,27,female,161,97,37.42,high blood pressure,omnivore,"walnuts, chia seeds, mackerel",562
+student,user_600,20,female,150,102,45.33,high cholesterol,vegetarian,"green beans, pumpkin seeds, oats",623
+normal,user_601,32,male,183,93,27.77,high cholesterol,omnivore,"green beans, oats, sweet potatoes",620
+gymer,user_602,37,male,192,117,31.74,none,vegetarian,"tofu, spinach, pumpkin seeds",938
+gymer,user_603,23,male,184,116,34.26,none,vegetarian,"spinach, pumpkin seeds, cereal",969
+gymer,user_604,55,female,149,110,49.55,none,vegetarian,"tofu, kale",1065
+gymer,user_605,47,female,186,91,26.3,none,omnivore,"spinach, cashews, tofu",1127
+gymer,user_606,41,female,179,52,16.23,none,vegan,"walnuts, tofu, almonds",1074
+gymer,user_607,28,female,148,61,27.85,none,vegetarian,"mushrooms, oats, sweet potatoes",1030
+gymer,user_608,57,female,146,110,51.6,none,omnivore,"chicken liver, pumpkin seeds, cereal",1121
+student,user_609,21,female,165,95,34.89,none,omnivore,"oats, kidney beans, almonds",843
+patient,user_610,41,female,181,96,29.3,cardiovascular disease,omnivore,"mushrooms, chicken liver, flaxseeds",587
+gymer,user_611,57,female,192,85,23.06,none,vegetarian,"pumpkin seeds, green beans, cashews",1042
+patient,user_612,55,female,150,87,38.67,high cholesterol,vegetarian,"flaxseeds, chia seeds, walnuts",547
+gymer,user_613,37,male,146,62,29.09,none,vegan,"mushrooms, chia seeds, flaxseeds",905
+patient,user_614,57,female,164,68,25.28,diabetes,omnivore,"yogurt, milk, eggs",583
+patient,user_615,26,male,147,55,25.45,high blood pressure,omnivore,"yogurt, chicken breast, salmon",493
+gymer,user_616,35,female,149,91,40.99,none,vegetarian,"flaxseeds, kale, walnuts",1135
+patient,user_617,38,male,180,97,29.94,high cholesterol,vegan,"broccoli, cashews, bananas",518
+student,user_618,21,female,163,95,35.76,none,omnivore,"mushrooms, salmon, egg yolk",812
+student,user_619,21,female,182,83,25.06,high blood pressure,vegan,"tofu, lentils",802
+student,user_620,19,male,153,73,31.18,high blood pressure,vegan,"walnuts, sweet potatoes, broccoli",691
+student,user_621,22,male,150,54,24.0,cardiovascular disease,vegan,"green beans, sweet potatoes, walnuts",692
+gymer,user_622,29,female,157,90,36.51,none,omnivore,"mushrooms, salmon, tofu",907
+normal,user_623,25,female,185,87,25.42,high cholesterol,vegan,"green beans, sweet potatoes, oats",550
+student,user_624,19,female,147,83,38.41,high cholesterol,omnivore,"milk, egg yolk, bananas",733
+patient,user_625,51,male,181,80,24.42,cardiovascular disease,vegan,"tofu, kale",537
+normal,user_626,55,female,195,50,13.15,none,omnivore,"almonds, cheese, chicken liver",531
+patient,user_627,27,male,155,51,21.23,high cholesterol,omnivore,"salmon, lentils, eggs",478
+student,user_628,22,male,183,95,28.37,none,omnivore,"carrots, chicken breast, broccoli",623
+patient,user_629,27,female,191,56,15.35,high blood pressure,vegetarian,"kale, walnuts, tofu",600
+gymer,user_630,46,female,160,108,42.19,none,omnivore,"tofu, egg yolk, mushrooms",979
+normal,user_631,37,female,189,63,17.64,high blood pressure,vegetarian,"mushrooms, oats, carrots",723
+gymer,user_632,58,female,180,82,25.31,none,omnivore,"bananas, broccoli, green beans",935
+patient,user_633,25,female,165,104,38.2,diabetes,vegan,"cashews, oats, sweet potatoes",500
+student,user_634,19,male,189,76,21.28,high cholesterol,omnivore,"chicken liver, cereal, kidney beans",837
+student,user_635,21,male,182,89,26.87,high blood pressure,omnivore,"mackerel, spinach, chia seeds",815
+normal,user_636,49,male,158,48,19.23,cardiovascular disease,vegetarian,"tofu, lentils",615
+patient,user_637,44,male,172,103,34.82,high cholesterol,vegetarian,"sweet potatoes, carrots, oats",530
+student,user_638,20,female,173,66,22.05,high cholesterol,vegan,"oats, flaxseeds, broccoli",650
+student,user_639,19,female,164,60,22.31,none,vegan,"flaxseeds, mushrooms, sweet potatoes",656
+patient,user_640,30,male,175,112,36.57,cardiovascular disease,vegetarian,"tofu, kale",512
+student,user_641,18,male,158,103,41.26,high cholesterol,omnivore,"milk, salmon, walnuts",665
+patient,user_642,54,male,189,53,14.84,high cholesterol,vegan,"tofu, flaxseeds, walnuts",486
+student,user_643,18,male,162,56,21.34,diabetes,omnivore,"mackerel, chia seeds, bananas",782
+gymer,user_644,52,female,149,56,25.22,none,vegetarian,"kidney beans, pumpkin seeds, mushrooms",941
+normal,user_645,55,male,158,56,22.43,cardiovascular disease,vegan,"tofu, kale",621
+gymer,user_646,35,female,167,101,36.21,none,omnivore,"green beans, oats, carrots",1078
+gymer,user_647,54,male,174,112,36.99,none,vegetarian,"pumpkin seeds, oats, carrots",931
+student,user_648,21,female,176,87,28.09,none,vegetarian,"cashews, almonds, spinach",603
+gymer,user_649,47,female,176,72,23.24,none,vegan,"flaxseeds, walnuts, chia seeds",1026
+gymer,user_650,55,female,186,63,18.21,none,omnivore,"milk, cheese, tofu",1143
+normal,user_651,40,male,158,66,26.44,high blood pressure,vegetarian,"pumpkin seeds, spinach, tofu",737
+normal,user_652,31,male,173,69,23.05,none,vegan,"tofu, broccoli, sweet potatoes",769
+student,user_653,19,female,158,97,38.86,cardiovascular disease,vegan,"chia seeds, carrots, tofu",716
+student,user_654,20,female,155,45,18.73,none,vegan,"broccoli, carrots, cereal",829
+normal,user_655,51,female,168,101,35.79,none,vegan,"chia seeds, oats, green beans",678
+normal,user_656,30,female,161,115,44.37,none,vegan,mushrooms,617
+student,user_657,18,male,183,104,31.05,diabetes,vegan,"green beans, oats, cereal",626
+student,user_658,22,female,185,77,22.5,high cholesterol,vegan,"kale, tofu, lentils",824
+patient,user_659,38,male,190,65,18.01,high cholesterol,vegan,"flaxseeds, tofu, walnuts",410
+student,user_660,20,female,182,65,19.62,diabetes,vegetarian,"tofu, kale",600
+gymer,user_661,53,female,165,99,36.36,none,omnivore,"sweet potatoes, broccoli, mushrooms",959
+student,user_662,18,male,167,56,20.08,none,vegan,"cashews, bananas, almonds",764
+gymer,user_663,32,female,176,47,15.17,none,vegan,"spinach, kidney beans, lentils",988
+patient,user_664,30,male,175,101,32.98,high cholesterol,omnivore,"green beans, sweet potatoes, chicken breast",400
+patient,user_665,49,female,186,78,22.55,high blood pressure,omnivore,"walnuts, chia seeds, mackerel",550
+gymer,user_666,34,female,160,60,23.44,none,omnivore,"lentils, eggs, spinach",1125
+student,user_667,19,male,161,66,25.46,high blood pressure,omnivore,"almonds, tofu, milk",731
+gymer,user_668,47,female,185,48,14.02,none,omnivore,"chicken liver, kale, spinach",1140
+patient,user_669,37,female,180,67,20.68,cardiovascular disease,omnivore,"salmon, tofu, yogurt",590
+patient,user_670,55,male,160,53,20.7,diabetes,vegan,mushrooms,484
+student,user_671,19,female,195,107,28.14,diabetes,vegan,"flaxseeds, kale, tofu",821
+student,user_672,21,female,145,100,47.56,high blood pressure,omnivore,"spinach, kidney beans, chicken liver",633
+gymer,user_673,24,male,179,97,30.27,none,vegan,"kale, lentils, tofu",1015
+normal,user_674,50,female,179,74,23.1,high cholesterol,omnivore,"spinach, cheese, salmon",609
+gymer,user_675,55,female,164,111,41.27,none,vegetarian,"bananas, spinach, almonds",997
+normal,user_676,29,male,147,96,44.43,high cholesterol,vegetarian,"lentils, tofu, mushrooms",527
+student,user_677,21,female,180,47,14.51,diabetes,omnivore,"pumpkin seeds, kidney beans, kale",673
+gymer,user_678,46,female,165,90,33.06,none,vegan,"sweet potatoes, broccoli, green beans",931
+student,user_679,22,male,191,63,17.27,none,omnivore,"almonds, cereal, kidney beans",837
+normal,user_680,46,male,152,75,32.46,cardiovascular disease,vegan,"spinach, kidney beans, pumpkin seeds",516
+student,user_681,22,female,183,90,26.87,high cholesterol,omnivore,"cashews, chicken breast, almonds",688
+student,user_682,18,female,172,92,31.1,cardiovascular disease,vegetarian,"spinach, kidney beans, lentils",624
+patient,user_683,47,male,155,83,34.55,high cholesterol,vegetarian,mushrooms,453
+normal,user_684,32,female,165,70,25.71,none,vegan,"tofu, lentils",708
+student,user_685,21,male,188,74,20.94,high blood pressure,vegetarian,"almonds, cashews, bananas",686
+gymer,user_686,25,male,186,92,26.59,none,omnivore,"egg yolk, milk, salmon",1097
+normal,user_687,46,male,150,70,31.11,high cholesterol,vegetarian,"almonds, chia seeds, cereal",796
+normal,user_688,51,female,169,56,19.61,high blood pressure,vegan,"spinach, mushrooms, kidney beans",762
+gymer,user_689,58,male,188,113,31.97,none,omnivore,"broccoli, sweet potatoes, green beans",1008
+patient,user_690,26,female,167,66,23.67,cardiovascular disease,vegan,"mushrooms, kale, tofu",402
+student,user_691,20,female,156,83,34.11,diabetes,vegetarian,"kale, pumpkin seeds, spinach",710
+student,user_692,22,female,159,119,47.07,high blood pressure,vegetarian,"tofu, sweet potatoes, oats",840
+normal,user_693,35,female,153,47,20.08,high blood pressure,vegetarian,"lentils, tofu",562
+gymer,user_694,35,female,178,49,15.47,none,omnivore,"lentils, almonds, spinach",1138
+normal,user_695,52,female,152,46,19.91,high cholesterol,vegan,"tofu, lentils, bananas",699
+student,user_696,19,male,188,108,30.56,diabetes,vegan,"tofu, almonds, spinach",746
+normal,user_697,31,female,191,72,19.74,high cholesterol,vegan,"kidney beans, broccoli, green beans",691
+student,user_698,22,male,191,109,29.88,diabetes,omnivore,"cereal, pumpkin seeds, kidney beans",738
+student,user_699,22,male,159,113,44.7,diabetes,omnivore,"egg yolk, tofu, kale",843
+student,user_700,18,male,180,105,32.41,high blood pressure,vegetarian,"lentils, tofu",785
+normal,user_701,52,male,162,91,34.67,cardiovascular disease,omnivore,"salmon, walnuts, mushrooms",711
+normal,user_702,33,male,156,49,20.13,none,omnivore,"broccoli, carrots, oats",577
+normal,user_703,35,male,146,79,37.06,high cholesterol,vegetarian,"lentils, tofu, oats",552
+normal,user_704,45,female,172,89,30.08,none,omnivore,"salmon, egg yolk, milk",528
+patient,user_705,57,male,184,50,14.77,cardiovascular disease,vegetarian,"tofu, kale",531
+normal,user_706,46,female,178,48,15.15,high cholesterol,vegan,"chia seeds, mushrooms, walnuts",571
+student,user_707,20,male,148,87,39.72,cardiovascular disease,omnivore,"chicken breast, egg yolk, tofu",639
+gymer,user_708,57,male,162,53,20.2,none,omnivore,"milk, lentils, yogurt",962
+gymer,user_709,25,female,187,46,13.15,none,vegan,"lentils, walnuts, bananas",985
+student,user_710,22,female,158,84,33.65,cardiovascular disease,vegan,"chia seeds, flaxseeds, walnuts",756
+gymer,user_711,31,female,170,62,21.45,none,vegetarian,"spinach, almonds, bananas",952
+gymer,user_712,28,male,171,63,21.55,none,omnivore,"sweet potatoes, green beans, carrots",1070
+gymer,user_713,47,female,170,85,29.41,none,vegan,"pumpkin seeds, kale, cereal",914
+gymer,user_714,27,male,194,51,13.55,none,vegan,"green beans, carrots, chia seeds",1002
+normal,user_715,38,female,156,57,23.42,high cholesterol,vegetarian,"almonds, bananas, cashews",542
+normal,user_716,44,female,164,87,32.35,high cholesterol,vegan,"sweet potatoes, walnuts, oats",630
+student,user_717,21,female,151,117,51.31,diabetes,vegan,"kale, tofu, walnuts",782
+gymer,user_718,37,female,193,59,15.84,none,vegan,"tofu, kale",1090
+gymer,user_719,47,male,163,63,23.71,none,omnivore,"cheese, milk, kale",1013
+patient,user_720,26,female,184,52,15.36,diabetes,vegan,mushrooms,449
+patient,user_721,25,male,176,93,30.02,cardiovascular disease,omnivore,"spinach, almonds, bananas",502
+gymer,user_722,24,female,185,72,21.04,none,vegan,"cereal, kidney beans, almonds",993
+normal,user_723,54,male,171,59,20.18,high cholesterol,omnivore,"sweet potatoes, oats, tofu",600
+patient,user_724,33,female,167,94,33.71,diabetes,omnivore,"almonds, flaxseeds, spinach",448
+patient,user_725,23,male,193,60,16.11,diabetes,omnivore,"kidney beans, almonds, cereal",407
+normal,user_726,39,female,157,95,38.54,high blood pressure,vegan,"chia seeds, walnuts, tofu",619
+gymer,user_727,50,male,166,70,25.4,none,vegetarian,"tofu, kale, pumpkin seeds",1063
+patient,user_728,44,male,152,80,34.63,high blood pressure,vegetarian,"cereal, sweet potatoes, broccoli",412
+student,user_729,21,male,154,96,40.48,cardiovascular disease,vegetarian,"pumpkin seeds, cereal, bananas",635
+gymer,user_730,23,female,157,45,18.26,none,vegan,"broccoli, kale, sweet potatoes",1081
+student,user_731,19,male,150,86,38.22,high blood pressure,omnivore,"mushrooms, salmon, egg yolk",609
+student,user_732,18,male,155,85,35.38,cardiovascular disease,vegetarian,"walnuts, spinach, kidney beans",785
+gymer,user_733,39,male,171,97,33.17,none,vegetarian,"cashews, spinach, pumpkin seeds",1131
+gymer,user_734,29,female,178,100,31.56,none,omnivore,"milk, cheese, salmon",1112
+student,user_735,18,female,162,79,30.1,none,omnivore,"tofu, cheese, mushrooms",786
+patient,user_736,51,male,170,119,41.18,diabetes,vegan,"sweet potatoes, green beans, oats",525
+gymer,user_737,42,male,179,93,29.03,none,omnivore,"salmon, milk, pumpkin seeds",967
+normal,user_738,50,female,190,94,26.04,high blood pressure,omnivore,"spinach, bananas, cashews",574
+student,user_739,18,female,183,85,25.38,none,omnivore,"kale, cereal, cheese",824
+normal,user_740,56,female,156,53,21.78,cardiovascular disease,omnivore,"chicken breast, salmon, tofu",620
+gymer,user_741,43,female,186,84,24.28,none,vegetarian,"green beans, carrots, sweet potatoes",936
+student,user_742,19,female,177,79,25.22,diabetes,vegetarian,"spinach, almonds, cashews",609
+student,user_743,20,female,179,105,32.77,high cholesterol,vegetarian,"tofu, green beans, carrots",666
+normal,user_744,36,male,155,52,21.64,high blood pressure,vegetarian,"pumpkin seeds, mushrooms, kidney beans",702
+gymer,user_745,31,male,155,59,24.56,none,vegetarian,"cashews, almonds, cereal",1150
+student,user_746,18,female,170,84,29.07,cardiovascular disease,vegetarian,"sweet potatoes, kidney beans, oats",666
+normal,user_747,30,male,158,82,32.85,none,vegetarian,mushrooms,787
+normal,user_748,29,female,192,71,19.26,high blood pressure,vegan,"kale, tofu",572
+patient,user_749,39,male,177,54,17.24,cardiovascular disease,omnivore,"kale, cheese, cashews",541
+gymer,user_750,48,female,147,107,49.52,none,vegetarian,"tofu, mushrooms, lentils",1132
+patient,user_751,34,male,190,72,19.94,high blood pressure,omnivore,"oats, kale, broccoli",524
+patient,user_752,58,female,175,97,31.67,diabetes,vegan,"cereal, pumpkin seeds, kidney beans",468
+student,user_753,19,female,188,79,22.35,diabetes,omnivore,"oats, carrots, sweet potatoes",610
+patient,user_754,43,male,162,65,24.77,cardiovascular disease,vegetarian,"almonds, spinach, cashews",475
+gymer,user_755,41,female,182,117,35.32,none,omnivore,"kidney beans, cereal, salmon",902
+gymer,user_756,23,male,163,119,44.79,none,vegetarian,"broccoli, sweet potatoes, spinach",929
+student,user_757,21,female,175,83,27.1,high cholesterol,omnivore,"kale, kidney beans, pumpkin seeds",803
+student,user_758,20,male,188,89,25.18,high cholesterol,vegetarian,"green beans, oats, broccoli",723
+student,user_759,20,female,190,59,16.34,none,omnivore,"egg yolk, mushrooms, milk",742
+student,user_760,22,male,181,50,15.26,diabetes,vegan,"carrots, sweet potatoes, green beans",722
+gymer,user_761,23,female,150,47,20.89,none,vegan,"lentils, kidney beans, pumpkin seeds",999
+student,user_762,19,female,146,71,33.31,cardiovascular disease,vegan,"chia seeds, flaxseeds, walnuts",702
+patient,user_763,31,female,174,74,24.44,high blood pressure,vegetarian,"cereal, pumpkin seeds, flaxseeds",484
+normal,user_764,54,female,155,95,39.54,none,omnivore,"kidney beans, green beans, almonds",581
+normal,user_765,26,male,171,47,16.07,diabetes,vegetarian,"oats, sweet potatoes, mushrooms",637
+patient,user_766,55,female,173,107,35.75,cardiovascular disease,vegetarian,"oats, broccoli, carrots",428
+patient,user_767,52,male,162,81,30.86,cardiovascular disease,vegetarian,"broccoli, carrots, green beans",461
+patient,user_768,48,male,162,53,20.2,cardiovascular disease,omnivore,"mushrooms, kale, sweet potatoes",569
+gymer,user_769,37,male,166,59,21.41,none,vegetarian,"lentils, kale, tofu",1110
+patient,user_770,57,female,175,47,15.35,high blood pressure,vegan,"walnuts, almonds, chia seeds",583
+normal,user_771,24,female,156,64,26.3,high cholesterol,vegetarian,"lentils, mushrooms, tofu",644
+gymer,user_772,55,female,160,75,29.3,none,vegan,mushrooms,1118
+gymer,user_773,42,male,186,89,25.73,none,vegan,"lentils, sweet potatoes, oats",1016
+patient,user_774,49,male,145,104,49.46,high cholesterol,vegetarian,"bananas, tofu, spinach",445
+gymer,user_775,56,female,164,92,34.21,none,vegan,"lentils, almonds, flaxseeds",1002
+gymer,user_776,32,female,193,48,12.89,none,vegan,"kidney beans, cereal, pumpkin seeds",924
+normal,user_777,34,female,191,79,21.66,high cholesterol,omnivore,"cheese, kale, milk",697
+patient,user_778,25,female,158,45,18.03,cardiovascular disease,vegan,"walnuts, chia seeds, flaxseeds",565
+normal,user_779,51,female,152,66,28.57,diabetes,omnivore,"yogurt, chicken breast, walnuts",754
+patient,user_780,42,female,149,116,52.25,high cholesterol,vegan,"broccoli, spinach, sweet potatoes",509
+patient,user_781,50,male,182,95,28.68,high cholesterol,omnivore,"egg yolk, chicken liver, kidney beans",591
+gymer,user_782,57,female,167,80,28.69,none,vegetarian,"kale, pumpkin seeds, spinach",1001
+patient,user_783,23,female,186,63,18.21,high cholesterol,vegetarian,"spinach, bananas, almonds",506
+student,user_784,19,female,160,92,35.94,high blood pressure,omnivore,"cashews, bananas, spinach",654
+patient,user_785,36,female,169,47,16.46,diabetes,vegetarian,"lentils, kale, tofu",532
+normal,user_786,48,male,189,67,18.76,diabetes,vegetarian,"cashews, broccoli, mushrooms",730
+gymer,user_787,40,female,166,73,26.49,none,omnivore,"salmon, milk, mushrooms",988
+gymer,user_788,58,male,181,62,18.92,none,vegetarian,"spinach, mushrooms, bananas",919
+normal,user_789,52,male,169,56,19.61,diabetes,omnivore,"salmon, oats, mackerel",580
+patient,user_790,37,female,193,94,25.24,high blood pressure,omnivore,"tofu, cheese, kale",544
+patient,user_791,46,male,158,116,46.47,high blood pressure,vegan,"bananas, lentils, almonds",411
+student,user_792,20,female,182,64,19.32,high blood pressure,vegan,"oats, carrots, lentils",723
+gymer,user_793,47,male,147,80,37.02,none,vegetarian,"mushrooms, tofu, lentils",1034
+student,user_794,22,male,194,115,30.56,none,vegetarian,"oats, tofu, lentils",720
+gymer,user_795,47,female,182,88,26.57,none,omnivore,"salmon, bananas, mushrooms",1069
+normal,user_796,27,male,195,82,21.56,cardiovascular disease,vegan,"lentils, pumpkin seeds, spinach",597
+gymer,user_797,52,male,190,55,15.24,none,vegan,"pumpkin seeds, kidney beans, spinach",919
+student,user_798,22,male,193,93,24.97,high blood pressure,vegan,"almonds, spinach, mushrooms",740
+patient,user_799,32,female,166,72,26.13,cardiovascular disease,vegetarian,"broccoli, sweet potatoes, carrots",481
+student,user_800,20,male,188,48,13.58,diabetes,vegetarian,"sweet potatoes, oats, carrots",732
+student,user_801,22,female,173,83,27.73,cardiovascular disease,vegan,mushrooms,662
+student,user_802,22,male,145,56,26.63,high cholesterol,vegan,"lentils, cereal, pumpkin seeds",769
+patient,user_803,32,male,195,110,28.93,high blood pressure,omnivore,"salmon, milk, mushrooms",404
+patient,user_804,41,female,182,97,29.28,high blood pressure,vegetarian,"lentils, tofu",444
+student,user_805,20,male,195,63,16.57,diabetes,vegetarian,"tofu, kale",711
+gymer,user_806,43,male,175,107,34.94,none,vegetarian,"kidney beans, mushrooms, cereal",1061
+student,user_807,19,female,176,109,35.19,diabetes,vegetarian,"bananas, mushrooms, almonds",664
+student,user_808,21,male,190,48,13.3,high blood pressure,vegetarian,mushrooms,714
+patient,user_809,23,female,192,93,25.23,cardiovascular disease,omnivore,"flaxseeds, walnuts, chia seeds",488
+normal,user_810,43,male,177,95,30.32,high blood pressure,vegetarian,"spinach, kidney beans, pumpkin seeds",654
+patient,user_811,44,male,167,108,38.72,high blood pressure,omnivore,"salmon, sweet potatoes, broccoli",586
+gymer,user_812,57,female,155,101,42.04,none,vegan,"pumpkin seeds, kidney beans, tofu",977
+gymer,user_813,42,male,161,100,38.58,none,vegetarian,"oats, broccoli, spinach",974
+gymer,user_814,57,male,168,56,19.84,none,vegetarian,"carrots, lentils, sweet potatoes",931
+normal,user_815,49,female,175,117,38.2,none,vegetarian,"kidney beans, almonds, walnuts",639
+student,user_816,20,female,185,98,28.63,high blood pressure,omnivore,"bananas, salmon, yogurt",627
+gymer,user_817,53,male,183,60,17.92,none,omnivore,"flaxseeds, mackerel, tofu",939
+normal,user_818,37,male,165,73,26.81,none,vegetarian,"chia seeds, tofu, lentils",540
+gymer,user_819,57,female,172,108,36.51,none,vegan,"walnuts, flaxseeds, kale",983
+normal,user_820,54,male,164,79,29.37,high cholesterol,vegetarian,"cereal, tofu, spinach",573
+normal,user_821,42,female,165,69,25.34,diabetes,vegetarian,"tofu, kale, lentils",687
+normal,user_822,55,male,170,99,34.26,high blood pressure,vegetarian,"almonds, spinach, mushrooms",515
+gymer,user_823,37,male,180,52,16.05,none,vegan,"tofu, kale",1144
+student,user_824,20,female,170,63,21.8,high blood pressure,omnivore,"mackerel, walnuts, flaxseeds",673
+student,user_825,21,male,195,73,19.2,diabetes,vegetarian,"flaxseeds, kidney beans, cereal",835
+normal,user_826,34,female,185,71,20.75,diabetes,omnivore,"broccoli, oats, chicken breast",740
+patient,user_827,27,male,172,65,21.97,high cholesterol,vegan,mushrooms,588
+normal,user_828,37,male,185,98,28.63,high blood pressure,vegetarian,"mushrooms, kale, tofu",699
+gymer,user_829,25,female,182,62,18.72,none,vegan,"lentils, tofu",980
+student,user_830,22,male,147,54,24.99,diabetes,omnivore,"broccoli, chia seeds, carrots",834
+patient,user_831,49,male,160,113,44.14,high blood pressure,omnivore,"eggs, salmon, lentils",492
+patient,user_832,56,male,166,87,31.57,diabetes,omnivore,"spinach, pumpkin seeds, cereal",468
+patient,user_833,28,female,187,61,17.44,diabetes,vegetarian,"pumpkin seeds, spinach, flaxseeds",429
+normal,user_834,33,female,154,67,28.25,cardiovascular disease,vegetarian,"bananas, spinach, mushrooms",590
+normal,user_835,44,male,180,48,14.81,none,omnivore,"broccoli, carrots, oats",642
+gymer,user_836,37,male,155,69,28.72,none,vegan,"lentils, spinach, tofu",914
+normal,user_837,31,female,186,95,27.46,cardiovascular disease,vegetarian,"spinach, flaxseeds, bananas",516
+student,user_838,21,female,161,72,27.78,high blood pressure,vegetarian,"spinach, kale, bananas",807
+gymer,user_839,40,female,181,88,26.86,none,vegetarian,"mushrooms, tofu, kale",954
+normal,user_840,31,male,172,53,17.92,none,vegetarian,"chia seeds, tofu, walnuts",502
+student,user_841,21,female,149,87,39.19,diabetes,vegetarian,mushrooms,635
+gymer,user_842,58,female,149,56,25.22,none,vegan,"cashews, almonds, pumpkin seeds",1063
+gymer,user_843,24,male,170,48,16.61,none,vegan,"chia seeds, sweet potatoes, flaxseeds",999
+student,user_844,22,male,146,66,30.96,cardiovascular disease,vegetarian,"bananas, spinach, cashews",623
+patient,user_845,53,female,160,78,30.47,high blood pressure,vegetarian,"bananas, almonds, cashews",504
+student,user_846,21,female,186,88,25.44,cardiovascular disease,vegan,"mushrooms, broccoli, oats",819
+gymer,user_847,58,female,182,100,30.19,none,vegan,"carrots, green beans, tofu",1023
+patient,user_848,58,male,153,85,36.31,cardiovascular disease,vegetarian,"oats, broccoli, green beans",476
+patient,user_849,43,female,159,107,42.32,diabetes,omnivore,"oats, carrots, spinach",519
+student,user_850,19,male,166,85,30.85,diabetes,vegan,"broccoli, oats, carrots",682
+student,user_851,18,female,175,85,27.76,none,omnivore,"oats, green beans, chicken breast",789
+student,user_852,18,male,172,96,32.45,diabetes,vegan,"carrots, sweet potatoes, kale",837
+patient,user_853,30,female,191,87,23.85,high cholesterol,vegan,"sweet potatoes, walnuts, broccoli",413
+normal,user_854,53,male,195,47,12.36,cardiovascular disease,omnivore,"tofu, eggs, salmon",533
+normal,user_855,30,male,150,59,26.22,high blood pressure,omnivore,"tofu, green beans, milk",596
+gymer,user_856,34,female,169,81,28.36,none,vegan,"kale, tofu",1090
+patient,user_857,41,male,169,80,28.01,diabetes,vegetarian,mushrooms,420
+normal,user_858,55,male,171,59,20.18,none,omnivore,"cereal, pumpkin seeds, salmon",588
+student,user_859,22,female,162,95,36.2,none,vegan,mushrooms,614
+gymer,user_860,34,male,155,71,29.55,none,vegan,"broccoli, tofu, lentils",968
+patient,user_861,31,female,146,75,35.18,high blood pressure,vegetarian,"pumpkin seeds, lentils, kidney beans",543
+gymer,user_862,46,female,177,69,22.02,none,omnivore,"cheese, almonds, kale",1044
+patient,user_863,30,male,151,52,22.81,high cholesterol,omnivore,"milk, egg yolk, salmon",453
+student,user_864,18,female,187,107,30.6,high blood pressure,vegan,"mushrooms, walnuts, lentils",747
+gymer,user_865,52,female,189,56,15.68,none,vegetarian,mushrooms,1021
+gymer,user_866,43,male,174,87,28.74,none,vegetarian,"pumpkin seeds, kidney beans, lentils",1093
+patient,user_867,53,female,153,103,44.0,high cholesterol,vegan,"chia seeds, walnuts, flaxseeds",506
+normal,user_868,31,male,163,111,41.78,high blood pressure,omnivore,"tofu, eggs, yogurt",788
+student,user_869,22,male,162,117,44.58,cardiovascular disease,vegan,"kidney beans, cereal, mushrooms",683
+normal,user_870,31,male,186,115,33.24,high cholesterol,vegan,"flaxseeds, chia seeds, walnuts",621
+patient,user_871,36,female,146,64,30.02,high cholesterol,vegetarian,"cereal, pumpkin seeds, spinach",440
+gymer,user_872,42,female,190,98,27.15,none,omnivore,"chia seeds, mackerel, flaxseeds",1018
+student,user_873,20,male,160,87,33.98,diabetes,omnivore,"cheese, kale, tofu",838
+student,user_874,22,male,146,51,23.93,high blood pressure,vegan,"flaxseeds, walnuts, chia seeds",676
+normal,user_875,33,female,195,110,28.93,none,vegetarian,"broccoli, carrots, tofu",789
+patient,user_876,29,female,181,45,13.74,diabetes,vegetarian,"kidney beans, mushrooms, cashews",453
+normal,user_877,54,male,181,97,29.61,cardiovascular disease,vegetarian,"tofu, kale, lentils",524
+normal,user_878,35,female,187,106,30.31,none,vegetarian,"pumpkin seeds, tofu, spinach",592
+patient,user_879,44,male,176,79,25.5,high blood pressure,omnivore,"spinach, pumpkin seeds, kidney beans",403
+gymer,user_880,29,female,162,93,35.44,none,vegetarian,"chia seeds, flaxseeds, walnuts",1012
+normal,user_881,45,female,155,99,41.21,none,vegetarian,"kidney beans, bananas, almonds",527
+student,user_882,19,female,159,82,32.44,none,vegetarian,"kidney beans, flaxseeds, walnuts",775
+patient,user_883,53,female,189,106,29.67,diabetes,vegetarian,"tofu, kale",585
+gymer,user_884,52,male,169,59,20.66,none,vegan,"carrots, pumpkin seeds, cashews",1025
+patient,user_885,48,male,189,66,18.48,diabetes,omnivore,"eggs, yogurt, tofu",509
+student,user_886,22,male,161,47,18.13,high cholesterol,omnivore,"tofu, broccoli, green beans",666
+normal,user_887,55,female,175,83,27.1,cardiovascular disease,vegan,mushrooms,646
+gymer,user_888,36,female,162,104,39.63,none,omnivore,"milk, pumpkin seeds, kale",983
+gymer,user_889,44,male,163,69,25.97,none,vegan,"cashews, spinach, almonds",1005
+student,user_890,22,male,151,109,47.8,cardiovascular disease,vegetarian,"chia seeds, tofu, kale",729
+normal,user_891,28,female,182,82,24.76,high cholesterol,vegan,"pumpkin seeds, almonds, spinach",757
+normal,user_892,33,female,190,49,13.57,cardiovascular disease,omnivore,"flaxseeds, salmon, mackerel",539
+patient,user_893,38,female,176,116,37.45,high cholesterol,omnivore,"tofu, mushrooms, salmon",510
+normal,user_894,55,female,182,63,19.02,none,omnivore,"egg yolk, milk, kale",649
+normal,user_895,51,male,185,70,20.45,cardiovascular disease,omnivore,"tofu, cheese, milk",734
+normal,user_896,31,female,176,75,24.21,high cholesterol,vegetarian,"tofu, kidney beans, cereal",707
+patient,user_897,42,female,194,92,24.44,diabetes,vegetarian,"kale, walnuts, green beans",463
+student,user_898,20,female,180,75,23.15,cardiovascular disease,vegetarian,"cereal, lentils, mushrooms",744
+normal,user_899,29,female,181,71,21.67,high cholesterol,vegan,"bananas, spinach, almonds",792
+patient,user_900,31,female,195,73,19.2,high cholesterol,vegetarian,"kidney beans, cereal, spinach",552
+gymer,user_901,33,female,162,52,19.81,none,vegan,"mushrooms, walnuts, chia seeds",1112
+normal,user_902,56,male,192,53,14.38,none,vegan,"spinach, chia seeds, flaxseeds",545
+student,user_903,18,female,185,78,22.79,none,omnivore,"kidney beans, chia seeds, flaxseeds",616
+normal,user_904,37,male,149,92,41.44,none,vegetarian,"oats, mushrooms, broccoli",662
+student,user_905,20,male,194,50,13.29,high blood pressure,vegetarian,"flaxseeds, chia seeds, walnuts",671
+patient,user_906,42,female,168,74,26.22,diabetes,vegan,"tofu, almonds, bananas",600
+normal,user_907,23,female,155,64,26.64,diabetes,omnivore,"pumpkin seeds, chicken liver, cereal",597
+patient,user_908,40,female,163,115,43.28,high cholesterol,omnivore,"almonds, spinach, bananas",485
+student,user_909,20,male,190,99,27.42,high cholesterol,omnivore,"mackerel, chia seeds, sweet potatoes",821
+patient,user_910,41,male,175,103,33.63,high cholesterol,vegetarian,"broccoli, green beans, carrots",471
+patient,user_911,39,female,181,107,32.66,high cholesterol,omnivore,"sweet potatoes, green beans, almonds",417
+gymer,user_912,53,male,155,109,45.37,none,vegetarian,"tofu, mushrooms, kale",915
+normal,user_913,55,female,158,81,32.45,none,omnivore,"eggs, carrots, almonds",701
+patient,user_914,50,female,185,95,27.76,high blood pressure,omnivore,"tofu, yogurt, lentils",406
+normal,user_915,54,female,158,106,42.46,none,vegan,"mushrooms, lentils, tofu",538
+student,user_916,22,female,165,96,35.26,none,vegetarian,"tofu, lentils, kale",618
+normal,user_917,40,male,172,95,32.11,cardiovascular disease,omnivore,"green beans, carrots, yogurt",612
+student,user_918,20,male,153,115,49.13,cardiovascular disease,omnivore,"cereal, chicken liver, spinach",674
+patient,user_919,54,male,167,89,31.91,high blood pressure,omnivore,"spinach, cashews, chicken liver",548
+student,user_920,18,female,170,116,40.14,diabetes,omnivore,"mackerel, chia seeds, walnuts",768
+gymer,user_921,24,female,173,65,21.72,none,omnivore,"almonds, cereal, broccoli",1076
+student,user_922,18,male,163,85,31.99,high blood pressure,omnivore,"chicken breast, cheese, salmon",689
+gymer,user_923,52,female,158,49,19.63,none,vegetarian,mushrooms,943
+normal,user_924,54,female,153,74,31.61,high cholesterol,vegan,"lentils, spinach, tofu",602
+normal,user_925,57,female,191,92,25.22,diabetes,vegetarian,"kale, tofu, lentils",776
+student,user_926,19,male,191,58,15.9,none,vegan,"chia seeds, kale, walnuts",763
+normal,user_927,25,female,146,108,50.67,high cholesterol,vegetarian,"bananas, cashews, lentils",697
+patient,user_928,49,male,194,105,27.9,high cholesterol,omnivore,"spinach, almonds, lentils",600
+gymer,user_929,34,female,172,118,39.89,none,vegan,"green beans, chia seeds, oats",985
+patient,user_930,37,female,175,114,37.22,high cholesterol,vegan,"pumpkin seeds, cereal, spinach",540
+student,user_931,19,male,151,47,20.61,high blood pressure,vegetarian,mushrooms,846
+normal,user_932,29,male,172,85,28.73,cardiovascular disease,omnivore,"lentils, cheese, chicken breast",652
+patient,user_933,23,male,174,104,34.35,high blood pressure,vegetarian,"lentils, tofu",435
+gymer,user_934,26,female,168,64,22.68,none,vegan,"cereal, kidney beans, tofu",1114
+patient,user_935,57,male,162,84,32.01,cardiovascular disease,omnivore,"chia seeds, tofu, walnuts",595
+normal,user_936,44,male,174,84,27.74,cardiovascular disease,vegetarian,"lentils, tofu",704
+gymer,user_937,52,male,156,84,34.52,none,vegetarian,"lentils, tofu",1006
+student,user_938,19,male,192,89,24.14,high blood pressure,omnivore,"oats, broccoli, green beans",805
+gymer,user_939,46,female,148,64,29.22,none,vegan,"mushrooms, walnuts, flaxseeds",1113
+normal,user_940,47,male,172,104,35.15,high blood pressure,vegetarian,"mushrooms, tofu, carrots",561
+normal,user_941,28,male,191,65,17.82,cardiovascular disease,omnivore,"oats, broccoli, carrots",553
+gymer,user_942,35,male,172,53,17.92,none,vegetarian,"tofu, chia seeds, flaxseeds",1080
+gymer,user_943,56,female,183,62,18.51,none,vegan,"cashews, flaxseeds, kidney beans",1047
+student,user_944,20,female,149,49,22.07,diabetes,vegetarian,"mushrooms, flaxseeds, chia seeds",770
+student,user_945,19,male,164,65,24.17,none,vegetarian,"tofu, cereal, pumpkin seeds",691
+normal,user_946,41,female,171,79,27.02,cardiovascular disease,vegetarian,"lentils, tofu, kale",758
+gymer,user_947,57,female,146,52,24.39,none,vegetarian,"chia seeds, flaxseeds, walnuts",1006
+normal,user_948,35,male,184,87,25.7,none,vegetarian,"lentils, tofu",733
+student,user_949,18,female,193,86,23.09,high cholesterol,vegan,"walnuts, carrots, broccoli",635
+student,user_950,18,female,183,50,14.93,diabetes,vegan,"kidney beans, kale, spinach",661
+student,user_951,19,male,159,115,45.49,high blood pressure,vegetarian,"tofu, lentils",687
+student,user_952,18,male,180,74,22.84,high blood pressure,vegetarian,"walnuts, flaxseeds, lentils",841
+normal,user_953,50,female,170,106,36.68,high blood pressure,vegetarian,"kale, pumpkin seeds, tofu",612
+student,user_954,22,male,152,98,42.42,cardiovascular disease,vegetarian,"flaxseeds, walnuts, cereal",791
+normal,user_955,23,female,172,116,39.21,high blood pressure,vegan,"tofu, lentils",649
+gymer,user_956,34,male,187,117,33.46,none,omnivore,"spinach, yogurt, pumpkin seeds",1059
+student,user_957,18,female,180,51,15.74,high blood pressure,vegan,"lentils, flaxseeds, walnuts",633
+student,user_958,22,female,177,88,28.09,none,omnivore,"spinach, milk, chicken liver",605
+normal,user_959,44,female,193,62,16.64,high blood pressure,vegetarian,"spinach, cashews, bananas",667
+student,user_960,18,female,178,46,14.52,diabetes,vegan,"bananas, carrots, cashews",811
+gymer,user_961,46,male,171,56,19.15,none,vegan,"kidney beans, cereal, pumpkin seeds",1078
+gymer,user_962,57,female,188,90,25.46,none,vegetarian,"flaxseeds, chia seeds, walnuts",1093
+student,user_963,18,male,164,116,43.13,none,omnivore,"milk, mushrooms, salmon",690
+patient,user_964,39,male,158,107,42.86,diabetes,vegetarian,"chia seeds, flaxseeds, cereal",592
+gymer,user_965,32,male,179,87,27.15,none,vegetarian,"tofu, lentils, bananas",1039
+normal,user_966,43,male,170,90,31.14,none,vegan,"chia seeds, walnuts, lentils",754
+patient,user_967,46,female,163,79,29.73,high blood pressure,vegetarian,"kidney beans, cereal, pumpkin seeds",491
+gymer,user_968,24,male,153,110,46.99,none,vegetarian,"broccoli, oats, carrots",946
+patient,user_969,50,female,180,104,32.1,cardiovascular disease,vegan,"chia seeds, tofu, almonds",434
+normal,user_970,37,female,168,96,34.01,high blood pressure,vegan,"oats, green beans, sweet potatoes",758
+student,user_971,19,female,145,59,28.06,high cholesterol,vegan,"carrots, green beans, broccoli",673
+gymer,user_972,56,male,159,104,41.14,none,omnivore,"bananas, chicken breast, chicken liver",1127
+student,user_973,20,male,194,62,16.47,high blood pressure,vegetarian,"broccoli, green beans, sweet potatoes",834
+normal,user_974,26,female,185,119,34.77,high blood pressure,vegan,"tofu, lentils",751
+patient,user_975,43,female,165,109,40.04,diabetes,vegan,"kale, tofu, flaxseeds",560
+student,user_976,20,male,145,101,48.04,cardiovascular disease,vegetarian,"tofu, cereal, lentils",682
+patient,user_977,28,male,145,58,27.59,high blood pressure,vegetarian,"almonds, spinach, cashews",521
+gymer,user_978,43,female,177,51,16.28,none,omnivore,"sweet potatoes, broccoli, carrots",958
+student,user_979,21,female,176,67,21.63,high cholesterol,vegan,"tofu, cashews, kidney beans",727
+gymer,user_980,48,male,185,91,26.59,none,omnivore,"milk, salmon, mushrooms",994
+student,user_981,22,male,184,87,25.7,high blood pressure,omnivore,"lentils, almonds, eggs",748
+gymer,user_982,41,male,176,83,26.79,none,vegetarian,"lentils, flaxseeds, mushrooms",1096
+student,user_983,20,female,170,61,21.11,none,vegetarian,"bananas, tofu, kale",742
+student,user_984,18,female,162,62,23.62,none,omnivore,"spinach, chicken liver, kidney beans",797
+student,user_985,22,female,152,108,46.75,high blood pressure,vegan,"kidney beans, pumpkin seeds, mushrooms",624
+normal,user_986,47,female,171,61,20.86,cardiovascular disease,vegetarian,"pumpkin seeds, spinach, cereal",720
+patient,user_987,38,male,178,94,29.67,cardiovascular disease,vegetarian,"spinach, almonds, bananas",523
+student,user_988,21,male,167,115,41.23,none,vegan,"chia seeds, flaxseeds, tofu",765
+student,user_989,20,female,180,80,24.69,diabetes,vegetarian,"spinach, lentils, broccoli",623
+student,user_990,22,female,163,97,36.51,high cholesterol,vegan,"carrots, spinach, green beans",639
+patient,user_991,41,female,156,65,26.71,diabetes,omnivore,"walnuts, mackerel, flaxseeds",425
+normal,user_992,50,male,166,66,23.95,none,omnivore,"tofu, eggs, mushrooms",714
+gymer,user_993,50,male,156,51,20.96,none,vegan,"cashews, lentils, kale",1113
+student,user_994,22,male,183,68,20.31,diabetes,omnivore,"oats, sweet potatoes, carrots",695
+gymer,user_995,25,female,167,91,32.63,none,vegan,mushrooms,923
+normal,user_996,45,female,181,86,26.25,high cholesterol,omnivore,"kale, cheese, yogurt",675
+normal,user_997,58,female,173,49,16.37,high cholesterol,vegan,"lentils, mushrooms, green beans",748
+student,user_998,18,male,154,97,40.9,high blood pressure,vegan,"spinach, walnuts, pumpkin seeds",756
+gymer,user_999,50,female,193,50,13.42,none,vegan,"spinach, bananas, tofu",999
+student,user_1000,20,female,181,48,14.65,cardiovascular disease,omnivore,"tofu, bananas, cashews",614
+student,user_1001,20,male,185,54,15.78,none,omnivore,"kale, milk, salmon",838
+normal,user_1002,42,male,192,84,22.79,none,omnivore,"tofu, yogurt, pumpkin seeds",752
+normal,user_1003,23,female,165,71,26.08,diabetes,vegetarian,"sweet potatoes, tofu, oats",536
+normal,user_1004,52,female,168,102,36.14,none,omnivore,"carrots, broccoli, green beans",749
+student,user_1005,19,female,150,113,50.22,none,vegetarian,"walnuts, flaxseeds, mushrooms",611
+gymer,user_1006,56,male,181,93,28.39,none,omnivore,"cashews, green beans, spinach",979
+gymer,user_1007,44,female,156,102,41.91,none,vegetarian,"tofu, kale, kidney beans",1138
+normal,user_1008,42,female,160,107,41.8,diabetes,vegetarian,"kale, tofu, mushrooms",785
+patient,user_1009,55,male,170,48,16.61,high cholesterol,vegan,"tofu, lentils",479
+student,user_1010,19,male,190,103,28.53,cardiovascular disease,vegetarian,"carrots, green beans, sweet potatoes",671
+patient,user_1011,49,male,190,118,32.69,diabetes,vegan,"mushrooms, spinach, walnuts",459
+patient,user_1012,26,male,174,60,19.82,high cholesterol,omnivore,"green beans, kale, cheese",440
+gymer,user_1013,53,male,176,68,21.95,none,omnivore,"spinach, almonds, bananas",961
+gymer,user_1014,39,female,187,96,27.45,none,vegetarian,"sweet potatoes, almonds, oats",1039
+gymer,user_1015,45,female,195,70,18.41,none,vegan,"flaxseeds, chia seeds, walnuts",1086
+student,user_1016,22,male,191,95,26.04,high cholesterol,omnivore,"walnuts, milk, mushrooms",850
+normal,user_1017,34,male,167,75,26.89,none,vegetarian,"bananas, cashews, spinach",782
+patient,user_1018,31,male,172,56,18.93,cardiovascular disease,omnivore,"egg yolk, oats, milk",441
+patient,user_1019,54,female,183,45,13.44,diabetes,vegetarian,"pumpkin seeds, cereal, kidney beans",512
+student,user_1020,20,female,189,99,27.71,diabetes,vegetarian,mushrooms,760
+student,user_1021,18,male,150,57,25.33,diabetes,omnivore,"spinach, bananas, tofu",675
+gymer,user_1022,57,female,181,67,20.45,none,omnivore,"milk, mushrooms, salmon",1117
+student,user_1023,21,female,181,79,24.11,diabetes,vegetarian,"walnuts, flaxseeds, chia seeds",776
+patient,user_1024,34,female,151,73,32.02,cardiovascular disease,omnivore,"walnuts, cheese, eggs",530
+normal,user_1025,58,male,176,120,38.74,diabetes,vegetarian,"pumpkin seeds, spinach, kale",664
+patient,user_1026,23,male,151,45,19.74,high cholesterol,omnivore,"chia seeds, mushrooms, walnuts",579
+patient,user_1027,24,female,147,114,52.76,cardiovascular disease,omnivore,"spinach, pumpkin seeds, cereal",526
+student,user_1028,20,male,179,74,23.1,high cholesterol,vegetarian,"cereal, spinach, chia seeds",689
+gymer,user_1029,33,male,189,78,21.84,none,vegan,"walnuts, pumpkin seeds, kidney beans",1115
+gymer,user_1030,52,female,190,113,31.3,none,vegetarian,"kale, carrots, sweet potatoes",920
+patient,user_1031,28,male,151,111,48.68,diabetes,vegetarian,"carrots, green beans, broccoli",475
+student,user_1032,19,male,157,57,23.12,high blood pressure,vegan,"kale, tofu",670
+student,user_1033,22,male,181,99,30.22,cardiovascular disease,vegetarian,"tofu, lentils",793
+student,user_1034,21,female,146,93,43.63,high blood pressure,omnivore,"oats, sweet potatoes, carrots",712
+gymer,user_1035,34,female,184,55,16.25,none,omnivore,"egg yolk, mushrooms, milk",944
+gymer,user_1036,31,female,155,87,36.21,none,omnivore,"lentils, eggs, flaxseeds",1104
+student,user_1037,18,female,166,77,27.94,cardiovascular disease,vegan,mushrooms,706
+patient,user_1038,35,female,150,109,48.44,cardiovascular disease,vegetarian,"almonds, tofu, cashews",500
+patient,user_1039,49,female,167,107,38.37,high blood pressure,vegetarian,"bananas, cashews, almonds",583
+student,user_1040,19,female,179,68,21.22,none,vegan,"broccoli, chia seeds, oats",666
+normal,user_1041,45,male,168,61,21.61,high blood pressure,omnivore,"yogurt, sweet potatoes, broccoli",520
+normal,user_1042,40,female,186,117,33.82,cardiovascular disease,vegan,"cereal, spinach, pumpkin seeds",655
+patient,user_1043,35,male,175,113,36.9,diabetes,vegetarian,"spinach, sweet potatoes, tofu",495
+normal,user_1044,27,male,169,87,30.46,cardiovascular disease,omnivore,"walnuts, mackerel, flaxseeds",795
+gymer,user_1045,33,female,162,102,38.87,none,vegetarian,"walnuts, sweet potatoes, broccoli",923
+normal,user_1046,31,female,148,63,28.76,high blood pressure,vegan,"bananas, kale, tofu",772
+student,user_1047,22,male,176,118,38.09,cardiovascular disease,omnivore,"sweet potatoes, green beans, salmon",787
+normal,user_1048,36,female,164,114,42.39,diabetes,omnivore,"tofu, flaxseeds, milk",640
+student,user_1049,19,male,182,85,25.66,high blood pressure,vegan,"almonds, cashews, spinach",839
+patient,user_1050,43,female,170,67,23.18,high blood pressure,vegan,"tofu, lentils",490
+student,user_1051,22,female,148,111,50.68,diabetes,vegetarian,"spinach, kale, cashews",840
+normal,user_1052,57,male,190,86,23.82,none,vegetarian,"walnuts, chia seeds, cashews",584
+normal,user_1053,38,female,170,72,24.91,cardiovascular disease,vegetarian,"kale, tofu",780
+patient,user_1054,42,female,147,88,40.72,high blood pressure,vegan,"oats, carrots, broccoli",411
+gymer,user_1055,42,male,187,110,31.46,none,vegetarian,"cereal, kidney beans, pumpkin seeds",1084
+normal,user_1056,51,male,164,65,24.17,none,vegan,"tofu, kale, green beans",755
+student,user_1057,22,female,146,101,47.38,diabetes,omnivore,"milk, mushrooms, egg yolk",723
+normal,user_1058,43,male,179,86,26.84,high blood pressure,vegan,"lentils, tofu",574
+normal,user_1059,35,female,176,82,26.47,cardiovascular disease,vegetarian,"lentils, walnuts, chia seeds",668
+student,user_1060,22,male,191,53,14.53,none,vegan,"tofu, sweet potatoes, spinach",632
+student,user_1061,22,male,162,60,22.86,diabetes,vegan,"spinach, sweet potatoes, green beans",650
+gymer,user_1062,43,female,176,53,17.11,none,omnivore,"green beans, mushrooms, sweet potatoes",1132
+normal,user_1063,53,male,190,119,32.96,high blood pressure,vegetarian,"cereal, kale, spinach",680
+normal,user_1064,42,female,186,120,34.69,high blood pressure,vegetarian,"spinach, almonds, flaxseeds",519
+patient,user_1065,50,male,154,53,22.35,cardiovascular disease,omnivore,"flaxseeds, milk, mushrooms",585
+student,user_1066,21,male,187,65,18.59,cardiovascular disease,vegan,mushrooms,620
+gymer,user_1067,56,female,162,119,45.34,none,vegan,"pumpkin seeds, kidney beans, spinach",977
+gymer,user_1068,36,female,185,65,18.99,none,vegan,"flaxseeds, walnuts, chia seeds",1029
+patient,user_1069,38,male,169,61,21.36,diabetes,vegetarian,"cashews, almonds, spinach",531
+student,user_1070,18,male,187,100,28.6,diabetes,omnivore,"chicken liver, pumpkin seeds, mushrooms",701
+patient,user_1071,53,male,159,83,32.83,high blood pressure,vegetarian,"green beans, kale, lentils",400
+normal,user_1072,49,male,185,47,13.73,high cholesterol,vegan,"tofu, kale",612
+normal,user_1073,32,female,151,119,52.19,high cholesterol,vegan,"bananas, almonds, cashews",757
+gymer,user_1074,45,male,157,83,33.67,none,vegetarian,"pumpkin seeds, kidney beans, spinach",1017
+gymer,user_1075,49,female,183,74,22.1,none,vegetarian,"broccoli, oats, green beans",1069
+normal,user_1076,40,male,183,46,13.74,cardiovascular disease,omnivore,"chicken breast, salmon, green beans",615
+normal,user_1077,36,male,174,90,29.73,none,omnivore,"cheese, milk, kale",565
+normal,user_1078,35,male,172,118,39.89,diabetes,vegetarian,"almonds, lentils, tofu",504
+patient,user_1079,40,male,193,93,24.97,diabetes,vegan,"flaxseeds, walnuts, mushrooms",529
+gymer,user_1080,26,male,183,88,26.28,none,vegan,"walnuts, flaxseeds, chia seeds",1055
+student,user_1081,19,female,194,81,21.52,none,omnivore,"flaxseeds, mackerel, chia seeds",616
+normal,user_1082,48,female,150,72,32.0,diabetes,omnivore,"mushrooms, almonds, milk",773
+normal,user_1083,52,female,162,79,30.1,none,vegetarian,"tofu, lentils",790
+patient,user_1084,24,male,174,116,38.31,high blood pressure,vegetarian,"mushrooms, kale, tofu",428
+patient,user_1085,25,female,181,86,26.25,diabetes,vegetarian,"tofu, kale",548
+normal,user_1086,56,female,190,92,25.48,cardiovascular disease,vegan,"spinach, carrots, green beans",582
+student,user_1087,18,male,188,75,21.22,none,vegan,"cereal, spinach, kidney beans",814
+gymer,user_1088,39,female,170,84,29.07,none,omnivore,"broccoli, sweet potatoes, eggs",1076
+student,user_1089,21,female,174,72,23.78,cardiovascular disease,omnivore,"pumpkin seeds, cereal, kidney beans",664
+student,user_1090,21,male,182,80,24.15,high cholesterol,omnivore,"salmon, milk, egg yolk",660
+gymer,user_1091,27,female,187,118,33.74,none,vegetarian,"broccoli, oats, tofu",946
+student,user_1092,20,male,149,108,48.65,cardiovascular disease,vegan,"oats, sweet potatoes, broccoli",683
+student,user_1093,18,male,164,119,44.24,high blood pressure,omnivore,"cashews, mackerel, bananas",605
+patient,user_1094,42,male,193,69,18.52,diabetes,omnivore,"milk, tofu, cheese",408
+patient,user_1095,56,female,190,105,29.09,high cholesterol,vegan,"pumpkin seeds, cereal, spinach",515
+normal,user_1096,24,female,182,86,25.96,cardiovascular disease,vegetarian,"sweet potatoes, flaxseeds, broccoli",731
+normal,user_1097,32,male,177,49,15.64,cardiovascular disease,vegan,"tofu, kale",701
+gymer,user_1098,33,male,184,89,26.29,none,vegetarian,"bananas, mushrooms, almonds",918
+student,user_1099,18,female,164,78,29.0,diabetes,vegetarian,"walnuts, chia seeds, flaxseeds",746
+student,user_1100,20,female,159,94,37.18,none,omnivore,"carrots, sweet potatoes, oats",729
+patient,user_1101,54,female,195,75,19.72,diabetes,vegan,"sweet potatoes, chia seeds, oats",490
+normal,user_1102,49,female,171,109,37.28,high blood pressure,vegetarian,"tofu, lentils, mushrooms",696
+patient,user_1103,55,female,178,114,35.98,cardiovascular disease,omnivore,"broccoli, green beans, milk",494
+normal,user_1104,57,female,154,63,26.56,high blood pressure,omnivore,"tofu, mushrooms, kale",616
+patient,user_1105,31,male,154,115,48.49,high blood pressure,omnivore,"flaxseeds, yogurt, bananas",475
+gymer,user_1106,42,male,172,114,38.53,none,vegan,"pumpkin seeds, kidney beans, cereal",1136
+gymer,user_1107,28,female,158,90,36.05,none,vegetarian,"flaxseeds, chia seeds, walnuts",1004
+patient,user_1108,58,male,186,110,31.8,cardiovascular disease,vegan,"oats, broccoli, carrots",572
+patient,user_1109,51,male,169,54,18.91,diabetes,vegetarian,"sweet potatoes, green beans, carrots",536
+gymer,user_1110,30,male,170,63,21.8,none,omnivore,"flaxseeds, mackerel, chia seeds",1060
+student,user_1111,20,male,177,81,25.85,high cholesterol,omnivore,"milk, tofu, oats",727
+student,user_1112,18,male,159,71,28.08,high blood pressure,omnivore,"chicken breast, cheese, lentils",744
+normal,user_1113,42,male,159,90,35.6,cardiovascular disease,vegetarian,"flaxseeds, chia seeds, walnuts",733
+normal,user_1114,33,male,171,63,21.55,diabetes,vegetarian,"tofu, kale",681
+student,user_1115,19,female,181,96,29.3,none,omnivore,"kidney beans, cereal, chicken liver",693
+normal,user_1116,29,female,180,82,25.31,diabetes,vegetarian,"carrots, broccoli, sweet potatoes",688
+patient,user_1117,27,female,193,73,19.6,high cholesterol,vegan,mushrooms,481
+gymer,user_1118,41,male,182,79,23.85,none,vegetarian,"tofu, broccoli, sweet potatoes",977
+patient,user_1119,48,male,195,116,30.51,diabetes,vegan,"spinach, almonds, cashews",511
+patient,user_1120,27,female,145,54,25.68,diabetes,vegetarian,"walnuts, bananas, tofu",413
+patient,user_1121,25,female,180,89,27.47,high blood pressure,vegan,"flaxseeds, broccoli, green beans",469
+student,user_1122,20,male,184,58,17.13,cardiovascular disease,omnivore,"pumpkin seeds, carrots, tofu",815
+gymer,user_1123,48,female,190,96,26.59,none,omnivore,"egg yolk, kale, cheese",1105
+gymer,user_1124,51,male,153,49,20.93,none,omnivore,"broccoli, pumpkin seeds, chicken liver",1016
+student,user_1125,21,female,167,64,22.95,diabetes,vegan,"kale, cashews, tofu",746
+normal,user_1126,42,male,150,51,22.67,cardiovascular disease,vegan,"kale, cashews, almonds",553
+gymer,user_1127,34,male,176,111,35.83,none,vegetarian,"pumpkin seeds, cereal, tofu",975
+patient,user_1128,37,male,151,118,51.75,diabetes,vegan,"sweet potatoes, tofu, cereal",569
+patient,user_1129,45,female,149,89,40.09,cardiovascular disease,vegan,"tofu, lentils, cashews",431
+gymer,user_1130,27,female,154,64,26.99,none,vegetarian,"tofu, lentils, spinach",1101
+patient,user_1131,40,female,194,58,15.41,high blood pressure,vegan,"mushrooms, spinach, bananas",400
+patient,user_1132,44,male,157,72,29.21,high blood pressure,vegetarian,"walnuts, flaxseeds, chia seeds",568
+student,user_1133,21,female,190,66,18.28,none,omnivore,"green beans, broccoli, oats",758
+gymer,user_1134,50,female,188,47,13.3,none,vegetarian,"walnuts, tofu, kale",998
+student,user_1135,21,male,173,89,29.74,high cholesterol,vegan,"spinach, almonds, bananas",725
+patient,user_1136,23,female,165,97,35.63,cardiovascular disease,omnivore,"salmon, chicken breast, cereal",569
+patient,user_1137,54,male,184,96,28.36,high cholesterol,vegan,"spinach, pumpkin seeds, kidney beans",502
+gymer,user_1138,26,female,177,51,16.28,none,vegetarian,"kale, tofu",924
+gymer,user_1139,49,male,145,76,36.15,none,vegetarian,"carrots, oats, broccoli",1093
+student,user_1140,19,female,175,68,22.2,cardiovascular disease,vegetarian,"kidney beans, cereal, pumpkin seeds",650
+gymer,user_1141,29,male,150,104,46.22,none,vegetarian,"broccoli, green beans, spinach",977
+normal,user_1142,54,female,169,94,32.91,diabetes,vegetarian,"kale, tofu, mushrooms",644
+student,user_1143,18,female,149,64,28.83,high cholesterol,vegetarian,"tofu, green beans, carrots",650
+patient,user_1144,34,male,193,118,31.68,cardiovascular disease,vegetarian,"chia seeds, walnuts, oats",513
+student,user_1145,18,female,186,95,27.46,high cholesterol,vegan,mushrooms,743
+patient,user_1146,49,female,165,75,27.55,high blood pressure,omnivore,"egg yolk, salmon, cheese",507
+gymer,user_1147,58,male,168,57,20.2,none,omnivore,"milk, mushrooms, kidney beans",1110
+patient,user_1148,42,male,194,83,22.05,high blood pressure,vegan,"tofu, kidney beans, pumpkin seeds",558
+student,user_1149,20,female,179,80,24.97,none,vegan,"kale, tofu",846
+patient,user_1150,55,male,147,101,46.74,cardiovascular disease,vegan,"green beans, mushrooms, oats",581
+student,user_1151,22,female,183,66,19.71,high blood pressure,vegan,"tofu, chia seeds, cereal",836
+patient,user_1152,41,female,147,65,30.08,cardiovascular disease,vegan,"tofu, flaxseeds, chia seeds",532
+student,user_1153,18,female,167,52,18.65,diabetes,vegetarian,"almonds, spinach, pumpkin seeds",770
+normal,user_1154,27,female,174,110,36.33,high blood pressure,omnivore,"bananas, spinach, almonds",674
+gymer,user_1155,27,male,162,52,19.81,none,vegan,"sweet potatoes, kidney beans, kale",1083
+patient,user_1156,31,male,179,91,28.4,diabetes,vegan,"chia seeds, kale, walnuts",522
+student,user_1157,21,female,181,85,25.95,high cholesterol,vegan,"chia seeds, flaxseeds, walnuts",741
+normal,user_1158,23,female,174,65,21.47,diabetes,vegetarian,"kale, pumpkin seeds, spinach",515
+patient,user_1159,24,male,146,78,36.59,cardiovascular disease,vegetarian,"kidney beans, pumpkin seeds, cereal",585
+patient,user_1160,48,male,151,87,38.16,high cholesterol,omnivore,"tofu, spinach, lentils",426
+gymer,user_1161,32,female,179,91,28.4,none,vegan,"pumpkin seeds, kidney beans, tofu",1080
+gymer,user_1162,26,male,155,117,48.7,none,vegetarian,"flaxseeds, kale, tofu",945
+patient,user_1163,54,female,159,113,44.7,high cholesterol,vegetarian,"kale, lentils, tofu",591
+patient,user_1164,36,female,187,93,26.59,high cholesterol,vegetarian,"pumpkin seeds, cereal, tofu",515
+student,user_1165,21,male,167,101,36.21,high cholesterol,omnivore,"cheese, eggs, milk",740
+gymer,user_1166,25,female,169,100,35.01,none,vegetarian,"spinach, pumpkin seeds, walnuts",1138
+normal,user_1167,28,male,189,70,19.6,high blood pressure,omnivore,"carrots, egg yolk, milk",552
+gymer,user_1168,41,male,190,99,27.42,none,omnivore,"almonds, chicken breast, yogurt",1056
+patient,user_1169,52,male,186,77,22.26,high cholesterol,vegetarian,"cereal, pumpkin seeds, cashews",539
+normal,user_1170,23,male,159,80,31.64,high blood pressure,vegan,"lentils, tofu, kale",505
+patient,user_1171,54,male,188,75,21.22,diabetes,omnivore,"chicken liver, spinach, kidney beans",525
+normal,user_1172,37,female,187,88,25.17,none,omnivore,"cereal, green beans, chicken breast",750
+student,user_1173,20,male,148,57,26.02,high cholesterol,vegan,"broccoli, sweet potatoes, kale",606
+patient,user_1174,40,male,194,96,25.51,high blood pressure,vegetarian,"cashews, spinach, bananas",553
+patient,user_1175,33,female,163,114,42.91,cardiovascular disease,omnivore,"broccoli, green beans, oats",599
+student,user_1176,18,female,171,67,22.91,high cholesterol,vegan,"lentils, spinach, cereal",850
+student,user_1177,18,female,194,118,31.35,high blood pressure,vegetarian,"carrots, tofu, sweet potatoes",735
+gymer,user_1178,47,female,188,94,26.6,none,omnivore,"bananas, kidney beans, cashews",1108
+student,user_1179,22,male,185,81,23.67,high blood pressure,omnivore,"milk, cheese, tofu",654
+patient,user_1180,54,female,153,65,27.77,cardiovascular disease,vegetarian,"green beans, carrots, sweet potatoes",508
+gymer,user_1181,26,female,188,60,16.98,none,vegetarian,mushrooms,1109
+normal,user_1182,39,female,160,91,35.55,high cholesterol,vegetarian,"cashews, almonds, lentils",554
+gymer,user_1183,29,male,164,63,23.42,none,omnivore,"kale, cheese, tofu",937
+patient,user_1184,31,male,179,57,17.79,diabetes,vegan,"walnuts, flaxseeds, chia seeds",525
+student,user_1185,22,female,156,70,28.76,cardiovascular disease,vegan,"walnuts, flaxseeds, mushrooms",731
+normal,user_1186,41,male,170,85,29.41,diabetes,omnivore,"chicken breast, almonds, bananas",648
+patient,user_1187,42,male,182,55,16.6,high cholesterol,vegetarian,"bananas, almonds, cashews",561
+patient,user_1188,44,female,192,82,22.24,diabetes,vegan,"kidney beans, cereal, pumpkin seeds",426
+patient,user_1189,40,female,168,45,15.94,cardiovascular disease,vegan,"walnuts, tofu, chia seeds",422
+patient,user_1190,57,male,171,114,38.99,cardiovascular disease,vegan,"cereal, lentils, spinach",600
+patient,user_1191,25,female,183,50,14.93,cardiovascular disease,vegetarian,"tofu, lentils, kale",426
+gymer,user_1192,30,male,145,55,26.16,none,vegetarian,"green beans, kidney beans, cereal",1060
+gymer,user_1193,41,female,194,94,24.98,none,vegan,mushrooms,1012
+patient,user_1194,54,male,149,80,36.03,diabetes,omnivore,"mushrooms, egg yolk, chicken liver",402
+normal,user_1195,29,female,170,60,20.76,high blood pressure,vegetarian,"tofu, kale, mushrooms",613
+patient,user_1196,50,male,191,117,32.07,high cholesterol,vegetarian,"tofu, kale, pumpkin seeds",552
+student,user_1197,19,male,179,94,29.34,diabetes,omnivore,"milk, sweet potatoes, kale",739
+normal,user_1198,38,male,187,111,31.74,cardiovascular disease,vegetarian,"oats, carrots, broccoli",693
+normal,user_1199,31,male,161,49,18.9,none,vegan,"tofu, lentils",685
+normal,user_1200,52,male,155,94,39.13,high cholesterol,vegetarian,"sweet potatoes, tofu, carrots",642

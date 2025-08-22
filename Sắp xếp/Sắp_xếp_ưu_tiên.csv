@@ -1,0 +1,675 @@
+Ingredient,Frequency,Category
+egg,773,PROTEIN
+chicken,306,PROTEIN
+bacon,137,PROTEIN
+salmon,112,PROTEIN
+chicken breasts,72,PROTEIN
+prawn,70,PROTEIN
+steak,69,PROTEIN
+pancetta,67,PROTEIN
+anchovy fillets,66,PROTEIN
+king prawns,55,PROTEIN
+beef,53,PROTEIN
+sausage,52,PROTEIN
+turkey,46,PROTEIN
+chorizo,36,PROTEIN
+ham,33,PROTEIN
+prosciutto,31,PROTEIN
+duck,28,PROTEIN
+squid,28,PROTEIN
+mussel,28,PROTEIN
+pork,24,PROTEIN
+pork loin,22,PROTEIN
+scallop,19,PROTEIN
+beef mince,18,PROTEIN
+clam,18,PROTEIN
+crabmeat,17,PROTEIN
+lamb shoulder,16,PROTEIN
+rum,14,PROTEIN
+lamb,12,PROTEIN
+lamb neck,11,PROTEIN
+sardine,11,PROTEIN
+venison,11,PROTEIN
+quail,10,PROTEIN
+rabbit,9,PROTEIN
+brisket,9,PROTEIN
+chops,8,PROTEIN
+anchovies,8,PROTEIN
+bream,8,PROTEIN
+lamb mince,7,PROTEIN
+duck breast,7,PROTEIN
+cockles,7,PROTEIN
+chipolata,7,PROTEIN
+smoked trout,6,PROTEIN
+partridge,6,PROTEIN
+pheasant,6,PROTEIN
+lamb cutlets,5,PROTEIN
+belly,5,PROTEIN
+borlotti beans,5,PROTEIN
+pork ribs,4,PROTEIN
+monkfish fillets,4,PROTEIN
+minced lamb,4,PROTEIN
+salami,4,PROTEIN
+duck leg,3,PROTEIN
+tuna,3,PROTEIN
+shrimp,3,PROTEIN
+pigeons,3,PROTEIN
+veal,2,PROTEIN
+poussins,2,PROTEIN
+lobster,2,PROTEIN
+cashews,2,PROTEIN
+oyster,2,PROTEIN
+mince,2,PROTEIN
+knuckle,2,PROTEIN
+bresaola,2,PROTEIN
+mortadella,2,PROTEIN
+shanks,2,PROTEIN
+hogget,2,PROTEIN
+mackerel,1,PROTEIN
+minced ,1,PROTEIN
+liver,1,PROTEIN
+kidneys,1,PROTEIN
+andouille,1,PROTEIN
+sausagemeat,1,PROTEIN
+escalopes,1,PROTEIN
+lard,1,PROTEIN
+lardons,1,PROTEIN
+chuck,1,PROTEIN
+sirloin,1,PROTEIN
+skirt,1,PROTEIN
+rump,1,PROTEIN
+tenderloin,1,PROTEIN
+mutton,1,PROTEIN
+grouse,1,PROTEIN
+drumsticks,1,PROTEIN
+bologna,1,PROTEIN
+plain flour,420,CARBS
+potato,341,CARBS
+flour,333,CARBS
+caster sugar,324,CARBS
+bread,235,CARBS
+rice,207,CARBS
+plum tomatoes,205,CARBS
+sugar,178,CARBS
+almonds,170,CARBS
+cinnamon,163,CARBS
+vegetable oil,154,CARBS
+icing sugar,132,CARBS
+chicken stock,131,CARBS
+dark chocolate,127,CARBS
+breadcrumbs,103,CARBS
+basmati rice,92,CARBS
+brown sugar,90,CARBS
+yeast,87,CARBS
+butternut squash,84,CARBS
+wine,83,CARBS
+sesame oil,82,CARBS
+vanilla pod,79,CARBS
+oil,78,CARBS
+chickpeas,77,CARBS
+oats,62,CARBS
+bread flour,62,CARBS
+cider,63,CARBS
+spaghetti,56,CARBS
+puff pastry,56,CARBS
+water,56,CARBS
+whole milk,53,CARBS
+chocolate,53,CARBS
+cornflour,50,CARBS
+couscous,45,CARBS
+lentil,45,CARBS
+white fish,44,CARBS
+garam masala,44,CARBS
+bun,39,CARBS
+sweet potato,29,CARBS
+pasta,29,CARBS
+dried apricots,29,CARBS
+white cabbage,29,CARBS
+penne,27,CARBS
+passata,27,CARBS
+star anise,27,CARBS
+rapeseed oil,26,CARBS
+mayonnaise,26,CARBS
+date,25,CARBS
+polenta,25,CARBS
+golden syrup,25,CARBS
+demerara sugar,25,CARBS
+tortilla,25,CARBS
+pork mince,23,CARBS
+cashew nuts,23,CARBS
+unsalted peanuts,24,CARBS
+sprouting broccoli,22,CARBS
+mixed spice,22,CARBS
+gherkin,22,CARBS
+lime leaves,22,CARBS
+linguine,21,CARBS
+quinoa,20,CARBS
+tahini,20,CARBS
+dried fruit,20,CARBS
+rhubarb,20,CARBS
+buttermilk,19,CARBS
+blackberries,19,CARBS
+celeriac,19,CARBS
+coconut oil,18,CARBS
+sprouts,18,CARBS
+ciabatta,17,CARBS
+pork shoulder,14,CARBS
+pearl barley,15,CARBS
+pecans,15,CARBS
+noodles,15,CARBS
+gnocchi,11,CARBS
+tagliatelle,11,CARBS
+peanuts,9,CARBS
+macaroni,9,CARBS
+orecchiette,7,CARBS
+rigatoni,7,CARBS
+cornmeal,6,CARBS
+semolina,6,CARBS
+cannelloni tubes,6,CARBS
+farfalle,6,CARBS
+baguette,5,CARBS
+fusilli,4,CARBS
+taglierini,4,CARBS
+orzo,3,CARBS
+pastina,3,CARBS
+bucatini,3,CARBS
+vermicelli,2,CARBS
+pappardelle,2,CARBS
+tagliolini,2,CARBS
+gemelli,1,CARBS
+tortellini,1,CARBS
+garlic,1202,VEGETABLES
+onion,781,VEGETABLES
+tomato,461,VEGETABLES
+carrot,331,VEGETABLES
+spring onions,297,VEGETABLES
+celery,242,VEGETABLES
+bean,210,VEGETABLES
+cherry tomatoes,175,VEGETABLES
+spinach,171,VEGETABLES
+mushroom,144,VEGETABLES
+lettuce,129,VEGETABLES
+leek,128,VEGETABLES
+cucumber,106,VEGETABLES
+courgette,106,VEGETABLES
+nuts,108,VEGETABLES
+frozen peas,95,VEGETABLES
+fennel,93,VEGETABLES
+avocado,91,VEGETABLES
+rocket,90,VEGETABLES
+red pepper,88,VEGETABLES
+aubergine,85,VEGETABLES
+asparagus,74,VEGETABLES
+cabbage,72,VEGETABLES
+broccoli,67,VEGETABLES
+black olives,66,VEGETABLES
+cauliflower,51,VEGETABLES
+radish,51,VEGETABLES
+cranberries,51,VEGETABLES
+green beans,50,VEGETABLES
+watercress,40,VEGETABLES
+baby capers,39,VEGETABLES
+cress,39,VEGETABLES
+peas,39,VEGETABLES
+broad beans,36,VEGETABLES
+kale,36,VEGETABLES
+beetroot,33,VEGETABLES
+walnuts,32,VEGETABLES
+parsnip,32,VEGETABLES
+chestnuts,30,VEGETABLES
+cottage cheese,30,VEGETABLES
+black peppercorns,30,VEGETABLES
+capers,24,VEGETABLES
+olives,19,VEGETABLES
+artichoke,18,VEGETABLES
+beansprouts,17,VEGETABLES
+pumpkin seeds,17,VEGETABLES
+cornichons,16,VEGETABLES
+swede,14,VEGETABLES
+fenugreek seeds,14,VEGETABLES
+sweetcorn,14,VEGETABLES
+silken tofu,13,VEGETABLES
+chicory,11,VEGETABLES
+mangetout,10,VEGETABLES
+tofu,10,VEGETABLES
+baby leeks,9,VEGETABLES
+choi,9,VEGETABLES
+pea shoots,9,VEGETABLES
+turnip,8,VEGETABLES
+pumpkin,8,VEGETABLES
+corn,7,VEGETABLES
+chard,7,VEGETABLES
+kimchi,6,VEGETABLES
+porcini,6,VEGETABLES
+squash,6,VEGETABLES
+greens,6,VEGETABLES
+bok choi,5,VEGETABLES
+radicchio,5,VEGETABLES
+water chestnuts,5,VEGETABLES
+seaweed,4,VEGETABLES
+okra,4,VEGETABLES
+beets,4,VEGETABLES
+redcurrant,4,VEGETABLES
+capsicum,3,VEGETABLES
+fenugreek leaves,3,VEGETABLES
+courgette flowers,3,VEGETABLES
+acorn squash,3,VEGETABLES
+currants,3,VEGETABLES
+kernels,2,VEGETABLES
+zucchini,2,VEGETABLES
+dal,2,VEGETABLES
+choi sum,1,VEGETABLES
+choy,1,VEGETABLES
+endive,1,VEGETABLES
+nettles,1,VEGETABLES
+samphire,1,VEGETABLES
+mooli,1,VEGETABLES
+corn cobs,1,VEGETABLES
+cobbettes,1,VEGETABLES
+gem,1,VEGETABLES
+butternut,1,VEGETABLES
+kabocha,1,VEGETABLES
+yams,1,VEGETABLES
+marrow,1,VEGETABLES
+caperberries,1,VEGETABLES
+pickle,1,VEGETABLES
+sauerkraut,1,VEGETABLES
+angelica,1,VEGETABLES
+kimchee,1,VEGETABLES
+marinated olives,1,VEGETABLES
+gordal,1,VEGETABLES
+chanterelles,1,VEGETABLES
+flowering oregano,5,VEGETABLES
+butter,734,DAIRY
+cheese,447,DAIRY
+yoghurt,419,DAIRY
+milk,327,DAIRY
+cream,290,DAIRY
+feta cheese,110,DAIRY
+mozzarella,76,DAIRY
+ricotta cheese,49,DAIRY
+pecorino cheese,22,DAIRY
+ricotta,13,DAIRY
+parmesan,10,DAIRY
+mascarpone,8,DAIRY
+stilton,7,DAIRY
+cheddar,6,DAIRY
+feta,6,DAIRY
+halloumi,5,DAIRY
+brie,3,DAIRY
+camembert,3,DAIRY
+ghee,3,DAIRY
+pecorino,2,DAIRY
+butterghee,1,DAIRY
+emmental,1,DAIRY
+manchego,1,DAIRY
+padano,1,DAIRY
+scamorza,1,DAIRY
+stichelton,1,DAIRY
+berkswell,1,DAIRY
+burrata,1,DAIRY
+labneh,1,DAIRY
+mozarella,1,DAIRY
+lemon,899,FRUITS
+lime,319,FRUITS
+orange,220,FRUITS
+apple,159,FRUITS
+coconut milk,89,FRUITS
+clementine,69,FRUITS
+banana,58,FRUITS
+pistachios,58,FRUITS
+strawberries,50,FRUITS
+mango,45,FRUITS
+cherries,45,FRUITS
+pomegranate,43,FRUITS
+raspberries,42,FRUITS
+desiccated coconut,41,FRUITS
+pear,39,FRUITS
+berries,38,FRUITS
+raisins,37,FRUITS
+mango chutney,35,FRUITS
+peach,23,FRUITS
+pineapple,23,FRUITS
+blueberries,23,FRUITS
+fig,17,FRUITS
+coconut,15,FRUITS
+orange juice,15,FRUITS
+sultanas,14,FRUITS
+plum,12,FRUITS
+watermelon,12,FRUITS
+elderflower cordial,11,FRUITS
+passion fruit,11,FRUITS
+grapefruit,10,FRUITS
+apricot,10,FRUITS
+lime juice,10,FRUITS
+grapes,9,FRUITS
+prune,9,FRUITS
+peel,9,FRUITS
+fresh fruit,7,FRUITS
+fruit,7,FRUITS
+lemon zest,6,FRUITS
+coconut flakes,5,FRUITS
+pomegranate juice,5,FRUITS
+stone fruit,4,FRUITS
+tangerine,3,FRUITS
+clementine juice,3,FRUITS
+quince,3,FRUITS
+rose petals,3,FRUITS
+melon,2,FRUITS
+kiwi,2,FRUITS
+satsuma,2,FRUITS
+orange zest,2,FRUITS
+mandarin,1,FRUITS
+nectarine,1,FRUITS
+brambles,1,FRUITS
+yuzu,1,FRUITS
+williams,1,FRUITS
+strawberry,1,FRUITS
+negra,1,FRUITS
+olive oil,1867,OTHER
+chilli,849,OTHER
+coriander,380,OTHER
+ginger,369,OTHER
+sea salt,361,OTHER
+parsley,356,OTHER
+mint,347,OTHER
+pepper,326,OTHER
+rosemary,322,OTHER
+thyme,311,OTHER
+wine vinegar,263,OTHER
+basil,248,OTHER
+honey,242,OTHER
+white wine,204,OTHER
+paprika,198,OTHER
+mustard,188,OTHER
+bay leaves,183,OTHER
+nutmeg,139,OTHER
+soy sauce,142,OTHER
+vinegar,137,OTHER
+oregano,137,OTHER
+fennel seeds,120,OTHER
+cumin seeds,109,OTHER
+sesame seeds,99,OTHER
+salt,96,OTHER
+ground cumin,93,OTHER
+herbs,91,OTHER
+shallot,89,OTHER
+coriander seeds,69,OTHER
+dill,67,OTHER
+vanilla extract,65,OTHER
+cocoa powder,65,OTHER
+clove,63,OTHER
+chives,60,OTHER
+hazelnuts,51,OTHER
+groundnut oil,54,OTHER
+mustard seeds,54,OTHER
+fish sauce,45,OTHER
+sage,45,OTHER
+tarragon,38,OTHER
+harissa,38,OTHER
+lemongrass,37,OTHER
+syrup,36,OTHER
+saffron,35,OTHER
+curry leaves,34,OTHER
+cinnamon stick,34,OTHER
+jam,34,OTHER
+cardamom pods,33,OTHER
+brandy,31,OTHER
+sage leaves,28,OTHER
+allspice,25,OTHER
+rice vinegar,16,OTHER
+pesto,16,OTHER
+vodka,17,OTHER
+horseradish,41,OTHER
+prosecco,10,OTHER
+coffee,10,OTHER
+chervil,10,OTHER
+mirin,9,OTHER
+ale,8,OTHER
+jelly,8,OTHER
+suet,8,OTHER
+dukkah,7,OTHER
+tapenade,7,OTHER
+gin,6,OTHER
+tequila,6,OTHER
+ketchup,6,OTHER
+sherry,6,OTHER
+vermouth,6,OTHER
+chianti,5,OTHER
+limoncello,5,OTHER
+tabasco,5,OTHER
+sweet sherry,5,OTHER
+stout,5,OTHER
+hanout,5,OTHER
+marjoram,5,OTHER
+roasted peppers,5,OTHER
+cardamom,5,OTHER
+amaretti biscuits,5,OTHER
+cointreau,4,OTHER
+calvados,4,OTHER
+armagnac,4,OTHER
+cognac,4,OTHER
+bourbon,4,OTHER
+chipotle paste,4,OTHER
+marsala,4,OTHER
+tzatziki,4,OTHER
+houmous,4,OTHER
+guacamole,4,OTHER
+dripping,4,OTHER
+shredded suet,4,OTHER
+amaretto,3,OTHER
+espresso,3,OTHER
+sake,3,OTHER
+guinness,3,OTHER
+glucose,3,OTHER
+champagne,3,OTHER
+sumac,3,OTHER
+biber,3,OTHER
+nori,3,OTHER
+marshmallows,3,OTHER
+tamari,3,OTHER
+bran,3,OTHER
+chickpea flour,3,OTHER
+fenugreek,3,OTHER
+biscotti,2,OTHER
+beer,2,OTHER
+lager,2,OTHER
+ipa,2,OTHER
+chardonnay,2,OTHER
+grappa,2,OTHER
+vanilla essence,2,OTHER
+rosewater,2,OTHER
+cordial,2,OTHER
+dare,2,OTHER
+deseeded,2,OTHER
+oelek,2,OTHER
+poppy,2,OTHER
+granola,2,OTHER
+kirsch,2,OTHER
+shortening,1,OTHER
+aioli,1,OTHER
+ajo,1,OTHER
+ajwain,1,OTHER
+alcohol,1,OTHER
+anise,1,OTHER
+aniseed,1,OTHER
+aperol,1,OTHER
+arrabbiata sauce,1,OTHER
+asafoetida,1,OTHER
+bagel,1,OTHER
+baileys,1,OTHER
+baps,1,OTHER
+barolo,1,OTHER
+bitters,1,OTHER
+bloomer,1,OTHER
+blancmange,1,OTHER
+bolognese,1,OTHER
+bourguignon,1,OTHER
+briks,1,OTHER
+buttercream,1,OTHER
+caramel,1,OTHER
+campari,1,OTHER
+chapatis,2,OTHER
+cherry,1,OTHER
+chia,2,OTHER
+chips,2,OTHER
+compote,1,OTHER
+coleslaw,1,OTHER
+cornbread,3,OTHER
+cornflakes,1,OTHER
+crackers,2,OTHER
+crackling,1,OTHER
+crema,1,OTHER
+crisps,2,OTHER
+crostini,6,OTHER
+crumpet,5,OTHER
+cumberlands,1,OTHER
+cumin,4,OTHER
+cupcakes,1,OTHER
+custard,7,OTHER
+dashi,1,OTHER
+drambuie,1,OTHER
+dressing,6,OTHER
+dumplings,2,OTHER
+egg yolks,46,OTHER
+epazote,1,OTHER
+flatbread,23,OTHER
+flaxseed,5,OTHER
+fraiche,1,OTHER
+frangipane,1,OTHER
+frozen,2,OTHER
+fudge,1,OTHER
+furikake,1,OTHER
+galangal,1,OTHER
+galliano,1,OTHER
+gelatine,9,OTHER
+gingernut biscuits,1,OTHER
+glaze,1,OTHER
+gooseberries,1,OTHER
+gorditas,1,OTHER
+grain,9,OTHER
+granary bread,1,OTHER
+granules,1,OTHER
+gravy,4,OTHER
+gum,13,OTHER
+haggis,3,OTHER
+hobnobs,1,OTHER
+hollandaise,2,OTHER
+honeycomb,2,OTHER
+horlicks,2,OTHER
+leche,4,OTHER
+lemonade,1,OTHER
+liqueur,1,OTHER
+liquor,1,OTHER
+loaf,12,OTHER
+mace,1,OTHER
+madeira,1,OTHER
+madeira sponge,1,OTHER
+malbec,1,OTHER
+maltesers,1,OTHER
+margarine,15,OTHER
+maria,1,OTHER
+marmalade,13,OTHER
+marnier,1,OTHER
+marzipan,6,OTHER
+masala,2,OTHER
+matchsticks,2,OTHER
+meat stock,1,OTHER
+meatballs,1,OTHER
+meringue,3,OTHER
+methi,2,OTHER
+mincemeat,9,OTHER
+mini tortillas,1,OTHER
+muffins,1,OTHER
+natural yogurt,3,OTHER
+nduja,1,OTHER
+nectar,1,OTHER
+noir,1,OTHER
+nutella,1,OTHER
+oatmeal,1,OTHER
+ovaltine,1,OTHER
+oyster sauce,8,OTHER
+palm sugar,13,OTHER
+pancakes,3,OTHER
+paneer,2,OTHER
+paneer cheese,8,OTHER
+panettone,5,OTHER
+pangrattato,1,OTHER
+parathas,1,OTHER
+parma,1,OTHER
+pastry,49,OTHER
+pastrami,1,OTHER
+peppercorn,24,OTHER
+peppermint,1,OTHER
+piccalilli,1,OTHER
+pie,2,OTHER
+pimms,1,OTHER
+pinenuts,1,OTHER
+pisco,1,OTHER
+pistou,1,OTHER
+pittas,3,OTHER
+plantain,5,OTHER
+pollen,2,OTHER
+popcorn,1,OTHER
+poppadoms,15,OTHER
+porchetta,1,OTHER
+port,11,OTHER
+porter,1,OTHER
+provence,1,OTHER
+pulp,1,OTHER
+raita,1,OTHER
+recado,1,OTHER
+relish,1,OTHER
+riesling,1,OTHER
+rind,3,OTHER
+rioja,1,OTHER
+roe,1,OTHER
+rossa,1,OTHER
+royals,4,OTHER
+salata,1,OTHER
+salsa,5,OTHER
+savory,1,OTHER
+scones,1,OTHER
+sec,1,OTHER
+sesame,1,OTHER
+sherry vinegar,13,OTHER
+short pasta,1,OTHER
+shortbread,1,OTHER
+skinned,2,OTHER
+slaw,3,OTHER
+smarties,1,OTHER
+sofrito,1,OTHER
+soup,3,OTHER
+sourdough,5,OTHER
+speck,1,OTHER
+sponge,4,OTHER
+sriracha,1,OTHER
+tablet,1,OTHER
+tacos,1,OTHER
+tamarind,1,OTHER
+tartare sauce,2,OTHER
+tea,1,OTHER
+templegall,1,OTHER
+tikka,1,OTHER
+toffees,1,OTHER
+treacle,4,OTHER
+turmeric,90,OTHER
+vegemite,1,OTHER
+verde,2,OTHER
+wasabi,1,OTHER
+weetabix,1,OTHER
+wheat,10,OTHER
+whiskey,1,OTHER
+whisky,11,OTHER
+wholemeal,2,OTHER
+yogurt,4,OTHER
+yolks,1,OTHER
+cake,4,OTHER
+biscuits,4,OTHER
+chilli oil,14,OTHER
+juniper berries,13,OTHER
+pectin,1,OTHER
+gochujang,1,OTHER
+linseed,4,OTHER
+cocoa,2,OTHER
+sweets,1,OTHER
