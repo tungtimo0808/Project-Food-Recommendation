@@ -27,6 +27,24 @@ The system combines **multi-label classification (Random Forest)** with **conten
 
 ## 📁 Project Structure
 
+├── data/
+│ ├── raw_recipes.csv
+│ └── cleaned_recipes.csv
+├── notebooks/
+│ ├── 01_scraping.ipynb
+│ ├── 02_cleaning.ipynb
+│ ├── 03_feature_engineering.ipynb
+│ └── 04_model_training.ipynb
+├── model/
+│ └── rf_multi_label.pkl
+├── app/
+│ ├── app.py
+│ └── templates/
+│ └── index.html
+├── figures/
+│ └── eda_plots/
+├── Final_ML2.pdf
+└── README.md
 
 ---
 
